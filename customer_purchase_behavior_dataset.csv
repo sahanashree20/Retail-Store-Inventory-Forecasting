@@ -1,0 +1,1201 @@
+Transaction_ID,Customer_ID,Purchase_Date,Age,Gender,Category,Purchase_Amount_USD,Review_Rating,Discount_Applied,Previous_Purchases,Frequency_of_Purchases,Purchase_Channel,Loyalty_Status
+TXN000001,10103,2025-09-10,32,Female,Clothing,71.24,4.7,No,5,Monthly,Online,Member
+TXN000002,10180,2025-02-24,46,Male,Electronics,134.92,4.7,Yes,3,Monthly,In-Store,Non-Member
+TXN000003,10093,2025-06-04,25,Male,Beauty,40.31,4.2,No,2,Quarterly,In-Store,Member
+TXN000004,10015,2025-04-01,22,Male,Electronics,193.57,3.3,Yes,7,Rarely,Online,Member
+TXN000005,10107,2025-12-05,46,Male,Electronics,206.83,3.7,No,3,Quarterly,In-Store,Member
+TXN000006,10072,2025-05-06,64,Male,Clothing,114.38,4.1,No,4,Quarterly,Online,Non-Member
+TXN000007,10189,2025-12-03,21,Male,Clothing,87.94,5.0,No,7,Weekly,Online,Non-Member
+TXN000008,10021,2025-06-18,29,Male,Sports,134.31,2.8,Yes,3,Quarterly,In-Store,Member
+TXN000009,10103,2025-05-19,62,Male,Home & Kitchen,115.54,3.4,Yes,8,Quarterly,Online,Non-Member
+TXN000010,10122,2025-01-05,19,Female,Clothing,92.77,4.8,No,6,Quarterly,Online,Member
+TXN000011,10075,2025-03-07,44,Female,Electronics,207.24,5.0,No,6,Bi-Weekly,Online,Non-Member
+TXN000012,10088,2025-04-21,48,Male,Electronics,202.74,4.0,Yes,8,Rarely,Online,Non-Member
+TXN000013,10117,2025-07-03,68,Female,Clothing,105.42,5.0,No,3,Weekly,Online,Member
+TXN000014,10100,2025-09-25,68,Female,Electronics,182.69,3.5,No,6,Bi-Weekly,In-Store,Member
+TXN000015,10104,2025-06-19,53,Female,Electronics,219.0,2.9,No,5,Monthly,Online,Non-Member
+TXN000016,10152,2025-12-28,53,Male,Electronics,252.78,4.6,No,8,Monthly,In-Store,Non-Member
+TXN000017,10131,2025-09-01,43,Male,Beauty,54.32,4.9,Yes,10,Bi-Weekly,Online,Member
+TXN000018,10150,2025-11-27,60,Male,Clothing,84.69,4.9,No,2,Quarterly,In-Store,Member
+TXN000019,10053,2025-05-18,44,Male,Beauty,35.0,3.4,No,4,Bi-Weekly,In-Store,Member
+TXN000020,10002,2025-01-28,22,Male,Home & Kitchen,119.84,4.1,Yes,6,Weekly,In-Store,Member
+TXN000021,10088,2025-01-07,37,Female,Home & Kitchen,125.97,4.6,No,4,Weekly,Online,Non-Member
+TXN000022,10158,2025-11-29,28,Male,Beauty,17.71,4.2,Yes,6,Quarterly,Online,Non-Member
+TXN000023,10038,2025-11-13,27,Female,Home & Kitchen,90.08,5.0,No,4,Bi-Weekly,Online,Member
+TXN000024,10130,2025-02-20,57,Male,Sports,53.05,3.7,Yes,7,Weekly,In-Store,Member
+TXN000025,10192,2025-05-16,55,Male,Beauty,104.3,4.0,No,5,Monthly,In-Store,Member
+TXN000026,10188,2025-06-27,23,Female,Home & Kitchen,94.1,4.2,No,1,Monthly,Online,Member
+TXN000027,10021,2025-05-09,25,Female,Sports,100.5,4.6,No,4,Quarterly,Online,Member
+TXN000028,10161,2025-07-16,40,Female,Home & Kitchen,118.53,3.9,Yes,12,Quarterly,Online,Member
+TXN000029,10058,2025-09-24,64,Female,Electronics,245.75,4.6,No,10,Quarterly,Online,Member
+TXN000030,10022,2025-04-17,43,Female,Clothing,107.47,5.0,No,4,Bi-Weekly,Online,Member
+TXN000031,10089,2025-02-17,63,Male,Clothing,91.5,3.6,Yes,3,Monthly,In-Store,Member
+TXN000032,10049,2025-05-18,60,Male,Sports,89.93,3.9,No,6,Monthly,In-Store,Member
+TXN000033,10059,2025-04-13,29,Male,Beauty,88.04,4.7,No,6,Bi-Weekly,Online,Member
+TXN000034,10170,2025-02-16,43,Male,Books,75.18,5.0,No,5,Weekly,Online,Member
+TXN000035,10188,2025-06-02,30,Male,Home & Kitchen,120.44,4.4,Yes,2,Monthly,Online,Member
+TXN000036,10015,2025-01-06,57,Male,Home & Kitchen,97.09,3.4,Yes,9,Weekly,Online,Member
+TXN000037,10190,2025-01-11,35,Female,Clothing,59.7,4.1,Yes,6,Rarely,Online,Member
+TXN000038,10190,2025-01-17,42,Male,Beauty,98.92,4.7,No,4,Quarterly,Online,Non-Member
+TXN000039,10175,2025-05-23,50,Female,Home & Kitchen,141.07,3.4,Yes,6,Bi-Weekly,In-Store,Non-Member
+TXN000040,10190,2025-09-29,64,Other,Books,51.86,3.2,No,8,Bi-Weekly,Online,Non-Member
+TXN000041,10051,2025-11-08,57,Male,Clothing,81.28,3.8,Yes,2,Rarely,Online,Member
+TXN000042,10108,2025-03-07,60,Male,Home & Kitchen,97.06,4.5,Yes,2,Bi-Weekly,In-Store,Non-Member
+TXN000043,10055,2025-12-05,29,Female,Beauty,65.79,3.0,No,6,Quarterly,In-Store,Non-Member
+TXN000044,10064,2025-11-27,61,Male,Beauty,49.31,3.5,No,6,Monthly,Online,Member
+TXN000045,10131,2025-09-13,53,Male,Home & Kitchen,120.52,4.2,Yes,4,Quarterly,Online,Member
+TXN000046,10051,2025-05-07,65,Female,Beauty,52.77,4.8,No,9,Quarterly,Online,Non-Member
+TXN000047,10135,2025-05-11,21,Female,Clothing,77.2,4.2,No,3,Weekly,In-Store,Member
+TXN000048,10021,2025-01-18,22,Male,Beauty,42.06,4.3,No,5,Bi-Weekly,In-Store,Member
+TXN000049,10073,2025-07-26,54,Female,Home & Kitchen,98.64,4.7,No,8,Monthly,In-Store,Non-Member
+TXN000050,10167,2025-03-30,25,Male,Sports,97.24,5.0,No,5,Rarely,Online,Non-Member
+TXN000051,10018,2025-08-31,59,Female,Sports,82.17,5.0,Yes,5,Weekly,In-Store,Member
+TXN000052,10132,2025-12-16,66,Female,Electronics,194.93,2.6,No,7,Monthly,Online,Member
+TXN000053,10089,2025-01-17,45,Male,Electronics,240.43,4.1,No,4,Bi-Weekly,Online,Member
+TXN000054,10060,2025-08-11,48,Female,Books,21.94,4.6,No,6,Quarterly,Online,Non-Member
+TXN000055,10014,2025-12-29,26,Male,Home & Kitchen,59.67,5.0,Yes,5,Quarterly,Online,Member
+TXN000056,10009,2025-07-29,68,Female,Sports,130.31,4.4,No,6,Bi-Weekly,Online,Member
+TXN000057,10090,2025-04-09,46,Female,Clothing,69.13,3.4,No,5,Weekly,In-Store,Non-Member
+TXN000058,10053,2025-01-13,31,Male,Beauty,53.1,3.5,Yes,5,Weekly,In-Store,Member
+TXN000059,10130,2025-11-15,57,Male,Sports,92.93,3.5,Yes,4,Monthly,Online,Non-Member
+TXN000060,10084,2025-09-27,58,Male,Books,84.65,4.2,No,4,Monthly,Online,Member
+TXN000061,10092,2025-07-06,39,Male,Electronics,239.75,3.7,Yes,5,Bi-Weekly,Online,Member
+TXN000062,10111,2025-10-01,28,Male,Beauty,60.98,1.9,No,3,Rarely,Online,Non-Member
+TXN000063,10188,2025-05-13,40,Female,Home & Kitchen,88.13,3.2,Yes,5,Monthly,Online,Member
+TXN000064,10199,2025-01-14,18,Female,Clothing,77.31,3.7,Yes,7,Quarterly,In-Store,Member
+TXN000065,10172,2025-10-08,63,Male,Beauty,79.11,3.0,Yes,3,Bi-Weekly,Online,Member
+TXN000066,10008,2025-02-13,54,Male,Beauty,68.58,3.2,Yes,0,Weekly,Online,Non-Member
+TXN000067,10175,2025-10-22,38,Male,Books,34.52,5.0,Yes,5,Monthly,Online,Non-Member
+TXN000068,10035,2025-04-14,43,Female,Home & Kitchen,90.62,4.0,No,4,Monthly,In-Store,Non-Member
+TXN000069,10081,2025-03-03,63,Female,Clothing,64.6,3.7,No,1,Monthly,In-Store,Member
+TXN000070,10164,2025-02-22,53,Male,Clothing,76.69,4.5,Yes,5,Quarterly,In-Store,Member
+TXN000071,10050,2025-11-05,40,Male,Electronics,167.98,4.8,No,5,Monthly,In-Store,Member
+TXN000072,10104,2025-04-28,18,Male,Electronics,196.58,5.0,No,3,Bi-Weekly,Online,Non-Member
+TXN000073,10132,2025-11-17,68,Male,Beauty,77.7,5.0,No,1,Rarely,Online,Member
+TXN000074,10002,2025-05-11,57,Male,Electronics,197.04,4.3,No,5,Monthly,In-Store,Non-Member
+TXN000075,10134,2025-10-26,32,Female,Books,78.59,2.9,No,11,Bi-Weekly,Online,Member
+TXN000076,10054,2025-11-02,38,Female,Books,73.42,3.3,No,5,Weekly,Online,Non-Member
+TXN000077,10106,2025-07-18,64,Female,Home & Kitchen,116.45,3.7,No,5,Quarterly,Online,Non-Member
+TXN000078,10004,2025-02-05,26,Female,Books,33.79,4.4,Yes,7,Quarterly,Online,Non-Member
+TXN000079,10054,2025-10-06,70,Male,Beauty,71.57,4.1,No,4,Weekly,Online,Member
+TXN000080,10191,2025-08-04,26,Female,Home & Kitchen,115.43,3.0,Yes,1,Bi-Weekly,Online,Member
+TXN000081,10146,2025-03-15,27,Male,Clothing,72.58,2.8,Yes,5,Quarterly,In-Store,Member
+TXN000082,10044,2025-11-02,69,Female,Electronics,245.26,4.2,No,7,Rarely,Online,Member
+TXN000083,10162,2025-02-24,70,Female,Home & Kitchen,152.85,4.1,No,3,Bi-Weekly,Online,Member
+TXN000084,10190,2025-01-12,43,Female,Sports,103.1,3.9,Yes,3,Quarterly,Online,Member
+TXN000085,10014,2025-03-24,58,Female,Home & Kitchen,133.95,4.3,No,9,Monthly,Online,Member
+TXN000086,10095,2025-02-01,52,Male,Sports,86.79,4.9,No,1,Bi-Weekly,Online,Non-Member
+TXN000087,10048,2025-03-27,69,Female,Beauty,71.62,4.2,Yes,6,Weekly,Online,Non-Member
+TXN000088,10015,2025-08-20,42,Male,Clothing,106.93,3.3,No,6,Bi-Weekly,Online,Member
+TXN000089,10200,2025-10-02,43,Female,Books,36.73,5.0,No,5,Bi-Weekly,Online,Non-Member
+TXN000090,10190,2025-07-20,28,Female,Home & Kitchen,125.55,3.9,No,4,Rarely,Online,Member
+TXN000091,10040,2025-02-20,55,Female,Electronics,199.32,4.0,No,7,Bi-Weekly,Online,Member
+TXN000092,10082,2025-11-16,19,Male,Beauty,82.27,3.5,No,7,Bi-Weekly,Online,Member
+TXN000093,10111,2025-09-13,24,Male,Clothing,54.62,3.2,Yes,6,Weekly,Online,Non-Member
+TXN000094,10053,2025-08-29,35,Female,Home & Kitchen,129.73,3.3,Yes,5,Quarterly,Online,Member
+TXN000095,10024,2025-07-24,44,Female,Home & Kitchen,106.43,3.2,No,3,Rarely,In-Store,Member
+TXN000096,10154,2025-07-15,51,Male,Electronics,236.57,1.9,No,5,Bi-Weekly,Online,Non-Member
+TXN000097,10188,2025-09-01,44,Female,Books,52.26,3.9,No,3,Monthly,Online,Member
+TXN000098,10124,2025-11-16,34,Female,Home & Kitchen,98.54,4.8,Yes,1,Weekly,Online,Non-Member
+TXN000099,10041,2025-01-01,60,Male,Clothing,32.83,3.3,Yes,2,Monthly,In-Store,Non-Member
+TXN000100,10157,2025-03-30,61,Male,Electronics,226.99,5.0,No,6,Weekly,In-Store,Non-Member
+TXN000101,10015,2025-10-09,68,Female,Books,40.37,5.0,Yes,4,Monthly,In-Store,Member
+TXN000102,10045,2025-05-19,41,Male,Clothing,121.72,4.0,Yes,9,Quarterly,In-Store,Member
+TXN000103,10065,2025-03-28,42,Male,Clothing,83.76,3.2,Yes,4,Monthly,Online,Member
+TXN000104,10089,2025-01-02,24,Female,Clothing,69.09,2.9,Yes,6,Bi-Weekly,In-Store,Member
+TXN000105,10071,2025-12-15,69,Male,Clothing,95.4,3.9,No,8,Bi-Weekly,Online,Member
+TXN000106,10009,2025-06-17,23,Male,Sports,118.88,4.0,No,5,Monthly,Online,Member
+TXN000107,10088,2025-04-29,70,Female,Beauty,67.36,3.9,Yes,3,Monthly,Online,Non-Member
+TXN000108,10129,2025-03-21,41,Female,Electronics,156.1,4.7,Yes,4,Weekly,Online,Non-Member
+TXN000109,10136,2025-04-21,50,Female,Beauty,52.38,5.0,No,3,Quarterly,In-Store,Member
+TXN000110,10063,2025-06-14,66,Male,Electronics,223.19,4.3,Yes,6,Monthly,Online,Member
+TXN000111,10139,2025-08-07,46,Female,Books,35.12,4.4,No,6,Weekly,In-Store,Member
+TXN000112,10081,2025-01-05,60,Male,Books,48.23,3.8,No,9,Weekly,Online,Member
+TXN000113,10136,2025-08-03,39,Male,Electronics,201.07,4.0,No,5,Rarely,Online,Non-Member
+TXN000114,10163,2025-07-14,43,Female,Sports,99.67,4.3,No,5,Bi-Weekly,Online,Non-Member
+TXN000115,10163,2025-10-09,45,Male,Beauty,39.44,3.8,Yes,3,Rarely,Online,Non-Member
+TXN000116,10033,2025-01-06,67,Female,Electronics,240.03,4.5,No,8,Monthly,In-Store,Non-Member
+TXN000117,10123,2025-10-27,38,Male,Clothing,82.02,3.3,Yes,6,Bi-Weekly,Online,Member
+TXN000118,10005,2025-02-27,66,Male,Electronics,165.67,3.5,Yes,5,Quarterly,Online,Non-Member
+TXN000119,10041,2025-12-03,24,Female,Beauty,9.18,3.3,Yes,1,Weekly,In-Store,Member
+TXN000120,10028,2025-10-29,34,Female,Books,59.39,3.5,No,3,Bi-Weekly,Online,Non-Member
+TXN000121,10135,2025-04-12,37,Female,Beauty,25.71,3.8,Yes,2,Bi-Weekly,In-Store,Member
+TXN000122,10072,2025-02-17,58,Female,Sports,107.77,4.7,Yes,7,Quarterly,Online,Member
+TXN000123,10012,2025-10-03,66,Female,Home & Kitchen,105.87,4.0,No,2,Monthly,Online,Member
+TXN000124,10162,2025-06-12,37,Female,Sports,100.6,3.1,No,2,Bi-Weekly,Online,Member
+TXN000125,10033,2025-11-28,39,Other,Beauty,64.81,3.0,Yes,8,Bi-Weekly,Online,Non-Member
+TXN000126,10048,2025-07-15,45,Female,Electronics,176.61,3.7,No,3,Monthly,Online,Member
+TXN000127,10151,2025-12-31,57,Female,Home & Kitchen,102.02,4.6,Yes,6,Weekly,In-Store,Member
+TXN000128,10062,2025-11-20,66,Male,Sports,94.48,5.0,No,6,Bi-Weekly,In-Store,Member
+TXN000129,10037,2025-05-12,24,Female,Clothing,33.36,2.9,Yes,2,Bi-Weekly,In-Store,Non-Member
+TXN000130,10099,2025-03-07,18,Male,Sports,95.24,4.3,No,5,Monthly,Online,Member
+TXN000131,10172,2025-03-24,49,Male,Clothing,55.13,3.7,Yes,2,Bi-Weekly,Online,Non-Member
+TXN000132,10104,2025-09-22,30,Male,Home & Kitchen,123.31,3.8,No,2,Monthly,Online,Non-Member
+TXN000133,10035,2025-08-17,47,Female,Sports,85.0,3.3,Yes,5,Monthly,Online,Member
+TXN000134,10193,2025-09-30,40,Female,Clothing,72.12,3.8,Yes,4,Rarely,In-Store,Non-Member
+TXN000135,10101,2025-08-07,68,Female,Clothing,96.55,3.2,Yes,3,Quarterly,Online,Member
+TXN000136,10175,2025-08-13,36,Male,Electronics,164.98,3.8,Yes,5,Monthly,Online,Member
+TXN000137,10131,2025-04-23,49,Female,Sports,93.52,4.8,No,8,Quarterly,Online,Non-Member
+TXN000138,10001,2025-05-20,47,Female,Clothing,88.93,4.4,No,7,Rarely,In-Store,Member
+TXN000139,10005,2025-07-04,46,Other,Sports,116.34,5.0,No,5,Monthly,Online,Member
+TXN000140,10142,2025-06-22,66,Female,Clothing,85.1,4.4,No,6,Monthly,Online,Non-Member
+TXN000141,10103,2025-01-11,62,Female,Books,78.82,4.1,No,3,Weekly,Online,Member
+TXN000142,10027,2025-06-08,46,Female,Books,45.8,4.4,No,5,Quarterly,Online,Non-Member
+TXN000143,10137,2025-07-24,47,Other,Home & Kitchen,130.95,3.5,Yes,8,Bi-Weekly,Online,Member
+TXN000144,10015,2025-08-18,33,Female,Home & Kitchen,97.22,2.5,No,5,Weekly,Online,Non-Member
+TXN000145,10090,2025-01-26,57,Male,Home & Kitchen,122.17,4.6,Yes,6,Monthly,In-Store,Member
+TXN000146,10042,2025-11-15,36,Male,Home & Kitchen,153.6,2.7,No,5,Quarterly,Online,Non-Member
+TXN000147,10124,2025-06-08,35,Female,Clothing,96.33,4.8,No,5,Monthly,In-Store,Member
+TXN000148,10179,2025-10-05,18,Male,Clothing,108.37,4.5,No,7,Quarterly,In-Store,Member
+TXN000149,10063,2025-05-28,31,Female,Clothing,65.34,3.4,No,5,Quarterly,In-Store,Non-Member
+TXN000150,10096,2025-09-23,68,Female,Electronics,234.53,3.7,No,4,Monthly,Online,Member
+TXN000151,10052,2025-03-24,64,Male,Electronics,240.85,4.0,No,7,Monthly,Online,Member
+TXN000152,10096,2025-01-26,67,Male,Home & Kitchen,137.95,3.4,No,6,Monthly,Online,Member
+TXN000153,10132,2025-03-12,19,Male,Books,34.31,4.4,No,9,Rarely,In-Store,Non-Member
+TXN000154,10151,2025-02-06,45,Male,Electronics,175.56,4.4,No,4,Quarterly,Online,Member
+TXN000155,10143,2025-05-13,66,Female,Home & Kitchen,102.59,3.0,No,1,Rarely,In-Store,Non-Member
+TXN000156,10171,2025-05-06,67,Female,Electronics,233.58,3.4,No,8,Bi-Weekly,Online,Member
+TXN000157,10029,2025-04-25,47,Female,Sports,93.91,4.0,No,5,Bi-Weekly,Online,Member
+TXN000158,10036,2025-04-02,55,Female,Sports,74.61,4.8,No,6,Weekly,Online,Non-Member
+TXN000159,10013,2025-08-30,68,Female,Sports,106.24,4.5,No,5,Monthly,Online,Non-Member
+TXN000160,10160,2025-07-19,21,Female,Books,44.12,2.4,No,6,Quarterly,Online,Non-Member
+TXN000161,10071,2025-07-26,18,Female,Clothing,52.26,3.8,No,8,Bi-Weekly,Online,Non-Member
+TXN000162,10187,2025-04-27,25,Female,Sports,100.75,4.3,No,2,Weekly,Online,Member
+TXN000163,10086,2025-08-07,46,Male,Beauty,70.08,3.4,Yes,4,Weekly,Online,Member
+TXN000164,10028,2025-11-01,56,Male,Clothing,119.87,3.4,No,1,Monthly,Online,Member
+TXN000165,10066,2025-08-31,20,Female,Books,28.32,3.5,No,6,Weekly,Online,Non-Member
+TXN000166,10170,2025-10-19,49,Male,Clothing,125.55,3.8,Yes,8,Bi-Weekly,Online,Non-Member
+TXN000167,10045,2025-10-09,27,Male,Beauty,57.54,3.3,Yes,7,Quarterly,In-Store,Member
+TXN000168,10062,2025-10-28,27,Female,Clothing,48.11,4.5,Yes,6,Bi-Weekly,In-Store,Member
+TXN000169,10185,2025-11-13,36,Male,Electronics,190.94,3.4,No,4,Monthly,In-Store,Member
+TXN000170,10134,2025-06-21,63,Male,Beauty,29.67,3.3,Yes,3,Monthly,Online,Non-Member
+TXN000171,10028,2025-03-17,51,Male,Home & Kitchen,124.87,3.7,No,6,Quarterly,Online,Member
+TXN000172,10028,2025-07-28,50,Female,Electronics,223.61,5.0,No,6,Weekly,Online,Member
+TXN000173,10108,2025-11-10,40,Male,Electronics,211.3,4.4,No,3,Rarely,Online,Member
+TXN000174,10044,2025-04-15,45,Female,Sports,56.19,4.4,Yes,1,Monthly,Online,Non-Member
+TXN000175,10084,2025-01-26,49,Male,Clothing,54.05,4.2,No,8,Bi-Weekly,In-Store,Non-Member
+TXN000176,10030,2025-12-17,67,Male,Electronics,207.58,3.3,No,2,Weekly,Online,Non-Member
+TXN000177,10190,2025-03-20,24,Male,Sports,109.17,3.6,Yes,5,Weekly,Online,Member
+TXN000178,10075,2025-05-08,46,Male,Sports,89.94,3.4,No,4,Quarterly,In-Store,Member
+TXN000179,10128,2025-05-17,25,Male,Electronics,131.22,4.8,No,6,Monthly,In-Store,Non-Member
+TXN000180,10092,2025-11-30,18,Female,Beauty,21.22,4.2,No,4,Bi-Weekly,In-Store,Non-Member
+TXN000181,10190,2025-02-05,20,Female,Sports,125.7,2.8,No,5,Bi-Weekly,Online,Member
+TXN000182,10129,2025-02-28,41,Male,Sports,83.0,5.0,Yes,5,Quarterly,Online,Member
+TXN000183,10121,2025-08-18,40,Female,Home & Kitchen,108.16,3.8,Yes,6,Quarterly,Online,Member
+TXN000184,10027,2025-05-04,25,Female,Clothing,88.82,4.5,Yes,3,Monthly,Online,Member
+TXN000185,10190,2025-03-29,64,Female,Clothing,81.26,4.7,No,5,Monthly,Online,Non-Member
+TXN000186,10121,2025-12-03,54,Female,Electronics,243.24,2.2,No,5,Quarterly,Online,Member
+TXN000187,10116,2025-05-21,20,Male,Home & Kitchen,100.98,4.3,No,4,Quarterly,In-Store,Member
+TXN000188,10003,2025-09-30,68,Male,Clothing,80.27,3.8,No,4,Monthly,Online,Member
+TXN000189,10103,2025-02-20,50,Male,Home & Kitchen,142.71,2.3,No,4,Weekly,In-Store,Member
+TXN000190,10198,2025-02-24,45,Male,Electronics,201.5,3.2,No,4,Quarterly,In-Store,Member
+TXN000191,10200,2025-12-03,64,Female,Electronics,183.08,3.7,Yes,6,Weekly,Online,Member
+TXN000192,10155,2025-05-30,25,Female,Sports,109.43,4.6,No,6,Weekly,In-Store,Member
+TXN000193,10137,2025-06-02,51,Male,Home & Kitchen,110.07,3.9,No,6,Quarterly,Online,Non-Member
+TXN000194,10062,2025-08-07,52,Female,Clothing,65.39,4.1,Yes,7,Monthly,Online,Member
+TXN000195,10165,2025-08-07,49,Male,Sports,95.34,3.8,Yes,5,Quarterly,In-Store,Member
+TXN000196,10051,2025-12-08,41,Male,Clothing,74.17,4.8,Yes,8,Monthly,Online,Non-Member
+TXN000197,10172,2025-09-15,31,Female,Beauty,5.0,4.4,Yes,4,Rarely,In-Store,Non-Member
+TXN000198,10152,2025-02-14,49,Male,Beauty,40.94,4.1,No,5,Bi-Weekly,Online,Non-Member
+TXN000199,10059,2025-09-26,63,Male,Electronics,238.59,3.2,Yes,1,Quarterly,Online,Member
+TXN000200,10118,2025-11-07,60,Male,Sports,119.39,4.1,No,7,Bi-Weekly,Online,Member
+TXN000201,10160,2025-06-09,33,Female,Home & Kitchen,151.88,5.0,No,5,Weekly,Online,Member
+TXN000202,10096,2025-10-05,21,Female,Home & Kitchen,123.24,4.6,Yes,9,Bi-Weekly,Online,Member
+TXN000203,10180,2025-12-11,69,Male,Clothing,120.47,3.5,No,5,Quarterly,In-Store,Member
+TXN000204,10113,2025-02-24,54,Female,Electronics,210.13,5.0,No,8,Weekly,In-Store,Non-Member
+TXN000205,10062,2025-05-25,38,Female,Books,31.88,3.5,No,9,Monthly,In-Store,Member
+TXN000206,10186,2025-08-23,31,Male,Electronics,220.1,4.5,No,5,Bi-Weekly,Online,Member
+TXN000207,10052,2025-06-28,48,Female,Home & Kitchen,94.24,4.0,Yes,9,Weekly,In-Store,Member
+TXN000208,10012,2025-07-27,65,Male,Home & Kitchen,142.7,4.1,No,5,Monthly,In-Store,Member
+TXN000209,10039,2025-05-16,35,Male,Home & Kitchen,109.34,4.2,No,6,Rarely,In-Store,Non-Member
+TXN000210,10130,2025-12-19,24,Male,Clothing,86.81,3.8,No,3,Bi-Weekly,Online,Member
+TXN000211,10131,2025-10-02,27,Female,Electronics,647.74,3.7,No,5,Monthly,In-Store,Non-Member
+TXN000212,10113,2025-11-19,24,Male,Beauty,57.57,3.1,Yes,5,Rarely,In-Store,Non-Member
+TXN000213,10101,2025-07-02,50,Female,Clothing,98.43,3.2,No,8,Monthly,Online,Member
+TXN000214,10113,2025-03-02,40,Female,Clothing,37.58,4.2,Yes,7,Monthly,In-Store,Member
+TXN000215,10184,2025-03-04,38,Male,Clothing,49.19,3.5,No,8,Bi-Weekly,Online,Non-Member
+TXN000216,10081,2025-12-27,36,Female,Electronics,170.68,3.4,Yes,12,Monthly,Online,Non-Member
+TXN000217,10187,2025-08-03,65,Female,Sports,127.1,5.0,No,2,Bi-Weekly,Online,Member
+TXN000218,10113,2025-12-26,36,Male,Clothing,91.73,5.0,Yes,6,Monthly,Online,Non-Member
+TXN000219,10002,2025-05-19,53,Female,Clothing,102.6,4.4,No,4,Quarterly,Online,Member
+TXN000220,10130,2025-05-14,46,Female,Electronics,201.02,4.5,No,7,Monthly,In-Store,Non-Member
+TXN000221,10054,2025-02-03,35,Female,Beauty,102.76,3.4,No,4,Weekly,Online,Member
+TXN000222,10087,2025-07-12,19,Male,Beauty,56.49,3.2,Yes,4,Rarely,In-Store,Member
+TXN000223,10129,2025-12-21,18,Male,Electronics,193.94,3.8,No,3,Monthly,In-Store,Non-Member
+TXN000224,10147,2025-11-16,64,Female,Beauty,71.56,4.0,Yes,6,Rarely,Online,Member
+TXN000225,10126,2025-03-28,22,Female,Home & Kitchen,103.16,4.5,No,6,Monthly,In-Store,Member
+TXN000226,10130,2025-07-29,37,Female,Sports,82.28,2.7,Yes,4,Weekly,In-Store,Member
+TXN000227,10053,2025-03-22,28,Female,Sports,124.72,5.0,Yes,7,Monthly,In-Store,Non-Member
+TXN000228,10172,2025-11-18,59,Male,Clothing,56.64,4.2,No,6,Monthly,In-Store,Non-Member
+TXN000229,10160,2025-12-05,19,Female,Electronics,182.46,2.9,Yes,6,Bi-Weekly,In-Store,Non-Member
+TXN000230,10198,2025-07-09,20,Female,Clothing,45.46,4.1,No,6,Monthly,Online,Non-Member
+TXN000231,10160,2025-12-14,40,Male,Electronics,168.17,3.4,Yes,2,Monthly,Online,Non-Member
+TXN000232,10068,2025-08-21,29,Male,Books,48.47,3.3,Yes,4,Monthly,In-Store,Member
+TXN000233,10183,2025-06-18,37,Male,Electronics,163.03,3.3,No,2,Bi-Weekly,Online,Member
+TXN000234,10184,2025-09-08,22,Female,Clothing,85.6,3.8,Yes,4,Monthly,Online,Non-Member
+TXN000235,10123,2025-06-17,54,Female,Beauty,120.75,5.0,No,4,Bi-Weekly,Online,Member
+TXN000236,10145,2025-08-19,55,Female,Home & Kitchen,124.18,4.1,No,3,Monthly,In-Store,Member
+TXN000237,10038,2025-05-30,47,Female,Clothing,123.51,4.5,No,5,Weekly,Online,Member
+TXN000238,10024,2025-06-01,26,Male,Electronics,204.76,4.7,No,6,Weekly,In-Store,Member
+TXN000239,10069,2025-02-07,51,Male,Electronics,203.59,3.9,Yes,4,Bi-Weekly,Online,Non-Member
+TXN000240,10116,2025-10-24,70,Male,Beauty,79.68,3.2,Yes,4,Bi-Weekly,Online,Member
+TXN000241,10098,2025-10-02,61,Male,Clothing,70.63,2.9,No,2,Monthly,Online,Non-Member
+TXN000242,10198,2025-04-15,52,Female,Electronics,206.01,3.7,No,9,Rarely,Online,Member
+TXN000243,10139,2025-12-14,69,Male,Home & Kitchen,146.44,4.8,Yes,9,Monthly,In-Store,Member
+TXN000244,10144,2025-12-18,39,Female,Electronics,205.22,4.7,No,8,Monthly,In-Store,Member
+TXN000245,10097,2025-03-03,61,Male,Home & Kitchen,97.93,4.2,Yes,6,Rarely,In-Store,Non-Member
+TXN000246,10124,2025-01-16,41,Female,Home & Kitchen,104.08,4.3,Yes,8,Rarely,Online,Non-Member
+TXN000247,10187,2025-12-16,34,Female,Electronics,190.44,3.9,Yes,4,Quarterly,Online,Non-Member
+TXN000248,10070,2025-05-30,27,Female,Books,8.27,3.7,No,7,Weekly,In-Store,Non-Member
+TXN000249,10093,2025-05-22,47,Male,Home & Kitchen,105.54,3.5,Yes,6,Monthly,In-Store,Member
+TXN000250,10003,2025-04-26,63,Female,Clothing,96.38,3.0,No,6,Quarterly,Online,Non-Member
+TXN000251,10148,2025-11-08,40,Female,Home & Kitchen,87.46,5.0,No,7,Quarterly,Online,Non-Member
+TXN000252,10187,2025-03-06,49,Female,Beauty,53.45,4.1,Yes,2,Monthly,Online,Non-Member
+TXN000253,10164,2025-11-06,34,Male,Beauty,48.35,3.7,No,7,Weekly,In-Store,Member
+TXN000254,10147,2025-07-13,67,Male,Clothing,91.42,5.0,Yes,6,Rarely,In-Store,Member
+TXN000255,10090,2025-12-08,68,Male,Books,98.29,5.0,No,6,Monthly,Online,Non-Member
+TXN000256,10195,2025-06-10,34,Female,Electronics,184.64,5.0,Yes,6,Monthly,Online,Non-Member
+TXN000257,10147,2025-11-02,31,Male,Clothing,50.02,3.8,Yes,5,Monthly,In-Store,Member
+TXN000258,10148,2025-12-27,26,Female,Clothing,77.32,4.1,Yes,7,Monthly,Online,Non-Member
+TXN000259,10096,2025-10-05,57,Male,Clothing,86.68,4.5,Yes,5,Bi-Weekly,Online,Non-Member
+TXN000260,10199,2025-10-23,19,Male,Sports,80.34,5.0,Yes,9,Bi-Weekly,Online,Member
+TXN000261,10052,2025-02-08,62,Female,Clothing,41.49,4.0,Yes,6,Rarely,Online,Non-Member
+TXN000262,10161,2025-12-27,42,Female,Clothing,73.96,3.3,No,5,Bi-Weekly,Online,Member
+TXN000263,10168,2025-06-18,56,Female,Sports,90.34,3.5,Yes,3,Monthly,In-Store,Member
+TXN000264,10128,2025-03-09,26,Female,Electronics,186.48,4.8,Yes,10,Quarterly,In-Store,Member
+TXN000265,10039,2025-01-07,39,Female,Clothing,105.85,4.4,No,3,Monthly,In-Store,Member
+TXN000266,10082,2025-03-26,60,Male,Clothing,88.58,3.9,No,4,Bi-Weekly,In-Store,Non-Member
+TXN000267,10104,2025-07-18,63,Male,Clothing,100.19,3.8,No,4,Monthly,Online,Member
+TXN000268,10129,2025-05-12,21,Female,Clothing,32.86,3.9,Yes,5,Weekly,In-Store,Member
+TXN000269,10011,2025-03-17,43,Female,Beauty,94.02,4.9,No,8,Weekly,Online,Member
+TXN000270,10185,2025-09-07,46,Female,Clothing,115.64,3.4,Yes,2,Monthly,In-Store,Member
+TXN000271,10178,2025-12-13,62,Male,Clothing,123.07,3.2,No,12,Rarely,In-Store,Member
+TXN000272,10151,2025-07-28,51,Female,Beauty,48.48,5.0,No,4,Quarterly,Online,Non-Member
+TXN000273,10159,2025-03-25,40,Male,Beauty,65.6,4.0,No,2,Weekly,Online,Member
+TXN000274,10042,2025-08-11,54,Male,Electronics,197.0,3.9,Yes,3,Monthly,Online,Non-Member
+TXN000275,10099,2025-09-10,28,Male,Home & Kitchen,132.31,4.5,No,1,Weekly,Online,Non-Member
+TXN000276,10007,2025-01-31,23,Male,Electronics,194.62,3.3,No,8,Monthly,Online,Member
+TXN000277,10144,2025-12-21,35,Female,Home & Kitchen,97.91,4.5,No,8,Bi-Weekly,In-Store,Non-Member
+TXN000278,10090,2025-07-20,38,Male,Home & Kitchen,116.35,3.7,No,6,Quarterly,In-Store,Member
+TXN000279,10112,2025-02-21,59,Female,Electronics,207.27,4.8,No,3,Weekly,Online,Member
+TXN000280,10060,2025-03-13,53,Female,Sports,129.68,2.9,No,5,Weekly,Online,Member
+TXN000281,10113,2025-01-21,58,Male,Clothing,104.27,4.3,No,5,Monthly,Online,Member
+TXN000282,10002,2025-01-16,55,Male,Beauty,39.01,3.8,No,5,Weekly,In-Store,Member
+TXN000283,10129,2025-01-16,51,Male,Clothing,56.7,3.5,Yes,3,Quarterly,Online,Non-Member
+TXN000284,10048,2025-06-24,34,Female,Sports,100.88,4.5,No,9,Rarely,Online,Member
+TXN000285,10140,2025-11-08,54,Female,Home & Kitchen,58.57,3.9,Yes,6,Weekly,Online,Non-Member
+TXN000286,10197,2025-12-04,42,Male,Sports,133.55,4.3,No,7,Monthly,Online,Member
+TXN000287,10037,2025-03-19,55,Female,Clothing,78.66,4.9,Yes,5,Rarely,Online,Non-Member
+TXN000288,10160,2025-08-28,29,Male,Home & Kitchen,99.56,4.6,No,4,Quarterly,In-Store,Member
+TXN000289,10009,2025-02-06,40,Male,Home & Kitchen,142.06,3.2,No,4,Rarely,Online,Member
+TXN000290,10099,2025-08-20,70,Male,Beauty,66.53,3.6,Yes,3,Weekly,In-Store,Member
+TXN000291,10147,2025-08-01,59,Female,Home & Kitchen,111.26,4.3,No,11,Bi-Weekly,Online,Member
+TXN000292,10048,2025-07-12,39,Female,Home & Kitchen,127.36,4.6,No,4,Weekly,In-Store,Member
+TXN000293,10131,2025-03-01,38,Female,Electronics,220.51,3.7,No,6,Bi-Weekly,In-Store,Non-Member
+TXN000294,10148,2025-07-08,44,Male,Electronics,212.32,4.1,No,8,Quarterly,Online,Member
+TXN000295,10152,2025-09-24,48,Female,Home & Kitchen,110.72,4.1,No,4,Weekly,Online,Non-Member
+TXN000296,10054,2025-05-06,23,Male,Clothing,79.12,4.2,Yes,10,Monthly,Online,Non-Member
+TXN000297,10120,2025-07-22,44,Female,Books,6.41,3.2,No,4,Bi-Weekly,In-Store,Non-Member
+TXN000298,10161,2025-11-18,57,Other,Beauty,83.16,3.0,No,6,Quarterly,Online,Member
+TXN000299,10152,2025-02-01,51,Female,Books,30.94,2.4,No,6,Weekly,In-Store,Member
+TXN000300,10116,2025-11-08,29,Female,Clothing,79.11,4.1,No,5,Bi-Weekly,Online,Non-Member
+TXN000301,10075,2025-09-18,62,Female,Sports,96.35,3.0,No,4,Monthly,In-Store,Non-Member
+TXN000302,10113,2025-12-12,70,Male,Sports,123.78,5.0,No,7,Weekly,In-Store,Member
+TXN000303,10200,2025-04-04,24,Male,Beauty,70.89,4.5,No,3,Monthly,In-Store,Member
+TXN000304,10164,2025-11-24,27,Male,Home & Kitchen,102.14,3.2,No,6,Monthly,Online,Member
+TXN000305,10166,2025-04-10,62,Female,Electronics,196.63,4.8,Yes,5,Quarterly,Online,Non-Member
+TXN000306,10104,2025-10-12,34,Female,Sports,93.13,4.8,Yes,2,Monthly,In-Store,Non-Member
+TXN000307,10084,2025-11-11,43,Male,Home & Kitchen,99.38,4.9,No,5,Monthly,Online,Member
+TXN000308,10112,2025-01-25,38,Female,Clothing,112.69,3.4,No,1,Rarely,Online,Non-Member
+TXN000309,10099,2025-12-19,45,Female,Electronics,175.26,4.5,Yes,3,Rarely,Online,Member
+TXN000310,10153,2025-12-23,63,Other,Books,87.35,4.9,Yes,6,Monthly,Online,Member
+TXN000311,10093,2025-04-27,19,Other,Sports,72.54,5.0,No,6,Monthly,Online,Non-Member
+TXN000312,10146,2025-07-18,60,Male,Books,48.36,2.9,Yes,12,Monthly,Online,Non-Member
+TXN000313,10128,2025-10-06,18,Male,Home & Kitchen,100.66,3.8,Yes,3,Bi-Weekly,Online,Member
+TXN000314,10110,2025-03-11,68,Female,Clothing,49.13,3.4,No,4,Rarely,In-Store,Non-Member
+TXN000315,10082,2025-12-01,70,Female,Clothing,105.26,5.0,No,3,Quarterly,In-Store,Member
+TXN000316,10194,2025-03-20,53,Male,Clothing,103.94,4.3,No,4,Bi-Weekly,In-Store,Member
+TXN000317,10054,2025-12-20,68,Male,Clothing,87.63,4.6,Yes,0,Weekly,In-Store,Member
+TXN000318,10163,2025-01-14,43,Female,Electronics,197.88,4.3,Yes,7,Weekly,Online,Member
+TXN000319,10189,2025-01-29,46,Female,Clothing,83.66,4.3,No,7,Bi-Weekly,Online,Member
+TXN000320,10169,2025-05-24,38,Female,Electronics,229.08,3.4,No,3,Bi-Weekly,Online,Member
+TXN000321,10161,2025-12-09,28,Male,Books,41.9,3.7,No,4,Monthly,Online,Non-Member
+TXN000322,10068,2025-01-10,57,Male,Electronics,180.41,4.1,Yes,6,Bi-Weekly,In-Store,Member
+TXN000323,10033,2025-02-16,28,Male,Sports,96.92,3.5,No,4,Monthly,Online,Non-Member
+TXN000324,10142,2025-09-17,53,Female,Home & Kitchen,86.81,3.4,No,3,Bi-Weekly,Online,Member
+TXN000325,10021,2025-01-12,66,Other,Clothing,79.07,3.9,Yes,4,Bi-Weekly,Online,Non-Member
+TXN000326,10048,2025-10-25,56,Male,Electronics,219.03,3.6,No,7,Monthly,Online,Non-Member
+TXN000327,10148,2025-08-14,57,Female,Clothing,76.3,4.0,Yes,5,Quarterly,In-Store,Member
+TXN000328,10128,2025-09-17,52,Female,Electronics,203.84,3.7,Yes,4,Monthly,Online,Non-Member
+TXN000329,10136,2025-03-25,51,Female,Beauty,87.44,3.5,Yes,11,Monthly,In-Store,Member
+TXN000330,10135,2025-12-14,64,Female,Clothing,88.66,3.4,No,2,Monthly,Online,Non-Member
+TXN000331,10195,2025-12-14,41,Male,Clothing,121.35,4.0,Yes,4,Bi-Weekly,Online,Member
+TXN000332,10145,2025-01-06,39,Female,Electronics,208.54,4.6,Yes,5,Bi-Weekly,In-Store,Non-Member
+TXN000333,10128,2025-09-04,22,Male,Books,39.5,4.5,Yes,4,Bi-Weekly,Online,Non-Member
+TXN000334,10033,2025-02-04,50,Female,Beauty,64.51,2.9,Yes,4,Monthly,In-Store,Member
+TXN000335,10176,2025-06-24,53,Female,Beauty,56.41,4.6,No,1,Monthly,In-Store,Member
+TXN000336,10187,2025-03-06,64,Female,Clothing,50.36,4.5,Yes,2,Monthly,In-Store,Non-Member
+TXN000337,10115,2025-05-27,37,Female,Beauty,79.99,4.6,Yes,9,Bi-Weekly,In-Store,Member
+TXN000338,10119,2025-02-26,36,Female,Beauty,70.42,4.8,No,6,Quarterly,Online,Member
+TXN000339,10022,2025-07-12,52,Male,Home & Kitchen,100.29,3.5,No,7,Bi-Weekly,In-Store,Member
+TXN000340,10158,2025-01-13,69,Male,Books,45.4,3.8,No,6,Weekly,Online,Member
+TXN000341,10038,2025-01-18,60,Male,Electronics,167.46,5.0,Yes,4,Bi-Weekly,In-Store,Non-Member
+TXN000342,10109,2025-09-03,34,Female,Books,92.08,5.0,No,10,Monthly,In-Store,Member
+TXN000343,10051,2025-06-12,62,Female,Books,56.55,3.9,Yes,3,Weekly,In-Store,Member
+TXN000344,10182,2025-12-09,60,Female,Clothing,76.95,4.4,Yes,9,Monthly,In-Store,Non-Member
+TXN000345,10008,2025-04-24,51,Male,Electronics,199.86,4.5,No,0,Quarterly,Online,Non-Member
+TXN000346,10027,2025-10-09,26,Female,Books,59.56,5.0,No,8,Bi-Weekly,In-Store,Member
+TXN000347,10027,2025-08-21,43,Female,Clothing,71.24,4.2,No,7,Monthly,In-Store,Member
+TXN000348,10021,2025-06-15,19,Male,Home & Kitchen,55.86,3.2,Yes,1,Bi-Weekly,In-Store,Non-Member
+TXN000349,10030,2025-11-18,70,Female,Books,61.03,3.7,No,3,Bi-Weekly,In-Store,Non-Member
+TXN000350,10097,2025-01-26,26,Female,Home & Kitchen,309.97,5.0,Yes,4,Weekly,Online,Member
+TXN000351,10028,2025-05-06,26,Female,Clothing,88.32,3.1,No,4,Rarely,Online,Member
+TXN000352,10111,2025-11-09,57,Male,Home & Kitchen,112.37,4.0,No,5,Monthly,Online,Member
+TXN000353,10192,2025-10-08,34,Male,Clothing,84.76,5.0,Yes,8,Quarterly,In-Store,Member
+TXN000354,10197,2025-10-13,18,Male,Home & Kitchen,118.33,3.4,No,8,Weekly,Online,Member
+TXN000355,10061,2025-10-10,42,Female,Clothing,92.45,2.1,No,4,Quarterly,Online,Non-Member
+TXN000356,10048,2025-05-19,60,Other,Home & Kitchen,70.95,2.2,No,1,Quarterly,Online,Member
+TXN000357,10147,2025-04-11,57,Male,Home & Kitchen,136.5,3.4,No,7,Quarterly,In-Store,Non-Member
+TXN000358,10004,2025-01-11,59,Female,Beauty,91.33,2.8,No,3,Rarely,Online,Member
+TXN000359,10035,2025-08-04,42,Male,Home & Kitchen,129.35,4.7,No,2,Weekly,Online,Non-Member
+TXN000360,10192,2025-01-30,56,Female,Home & Kitchen,139.32,4.2,No,7,Monthly,Online,Non-Member
+TXN000361,10049,2025-04-04,52,Male,Beauty,78.5,2.5,No,2,Monthly,Online,Member
+TXN000362,10017,2025-04-26,20,Male,Clothing,70.29,2.9,Yes,8,Monthly,Online,Member
+TXN000363,10172,2025-09-28,67,Female,Home & Kitchen,132.2,4.9,Yes,6,Quarterly,Online,Member
+TXN000364,10158,2025-10-18,54,Other,Clothing,90.07,4.1,No,4,Bi-Weekly,Online,Non-Member
+TXN000365,10046,2025-02-08,61,Male,Books,60.33,5.0,No,6,Bi-Weekly,In-Store,Non-Member
+TXN000366,10117,2025-01-24,61,Male,Clothing,94.93,4.8,Yes,5,Bi-Weekly,In-Store,Member
+TXN000367,10006,2025-09-21,68,Female,Electronics,204.47,3.2,Yes,3,Quarterly,Online,Member
+TXN000368,10099,2025-02-12,47,Female,Beauty,84.48,4.6,No,9,Rarely,In-Store,Member
+TXN000369,10124,2025-06-19,55,Female,Electronics,212.23,4.4,No,5,Monthly,Online,Non-Member
+TXN000370,10037,2025-12-06,51,Male,Clothing,120.69,2.6,No,5,Monthly,Online,Member
+TXN000371,10024,2025-06-18,29,Female,Home & Kitchen,151.24,3.0,Yes,6,Monthly,Online,Member
+TXN000372,10093,2025-10-30,36,Male,Beauty,86.14,5.0,No,5,Monthly,Online,Member
+TXN000373,10046,2025-01-26,54,Male,Beauty,77.28,3.4,Yes,4,Bi-Weekly,Online,Member
+TXN000374,10181,2025-06-29,61,Female,Electronics,183.74,4.3,Yes,3,Monthly,Online,Non-Member
+TXN000375,10095,2025-05-30,66,Male,Home & Kitchen,107.55,3.9,Yes,2,Monthly,Online,Member
+TXN000376,10099,2025-05-13,34,Female,Electronics,173.33,4.1,No,6,Monthly,In-Store,Non-Member
+TXN000377,10188,2025-05-23,27,Male,Beauty,5.0,3.9,No,3,Weekly,Online,Member
+TXN000378,10116,2025-06-13,66,Female,Home & Kitchen,110.24,4.7,No,4,Quarterly,Online,Member
+TXN000379,10191,2025-04-11,64,Female,Home & Kitchen,106.0,4.7,Yes,6,Quarterly,Online,Non-Member
+TXN000380,10160,2025-03-04,29,Female,Clothing,70.71,4.1,No,4,Monthly,Online,Non-Member
+TXN000381,10161,2025-04-03,33,Female,Clothing,93.9,3.4,No,7,Quarterly,Online,Non-Member
+TXN000382,10067,2025-07-26,41,Male,Clothing,83.76,3.6,No,9,Monthly,Online,Member
+TXN000383,10128,2025-11-07,36,Male,Clothing,77.28,2.9,No,10,Monthly,In-Store,Member
+TXN000384,10018,2025-03-13,25,Male,Electronics,140.35,3.8,Yes,7,Monthly,Online,Non-Member
+TXN000385,10025,2025-03-01,48,Female,Home & Kitchen,138.17,2.8,No,6,Quarterly,Online,Member
+TXN000386,10054,2025-01-29,38,Female,Clothing,65.97,4.2,No,5,Monthly,In-Store,Member
+TXN000387,10058,2025-01-19,34,Female,Books,22.95,4.2,No,4,Monthly,Online,Non-Member
+TXN000388,10067,2025-03-14,40,Male,Clothing,89.02,4.7,No,2,Monthly,Online,Non-Member
+TXN000389,10104,2025-12-23,54,Male,Beauty,24.48,3.1,Yes,3,Quarterly,In-Store,Non-Member
+TXN000390,10174,2025-09-03,33,Female,Home & Kitchen,353.34,3.2,No,4,Quarterly,Online,Non-Member
+TXN000391,10024,2025-11-09,23,Female,Electronics,175.2,5.0,No,10,Monthly,Online,Non-Member
+TXN000392,10114,2025-11-20,25,Male,Clothing,74.39,3.0,Yes,2,Quarterly,Online,Member
+TXN000393,10032,2025-03-28,42,Male,Home & Kitchen,103.89,5.0,No,1,Monthly,Online,Member
+TXN000394,10175,2025-12-25,35,Male,Electronics,190.09,3.4,Yes,4,Rarely,Online,Member
+TXN000395,10086,2025-07-02,42,Male,Books,94.96,3.4,No,9,Quarterly,Online,Member
+TXN000396,10151,2025-07-16,29,Female,Home & Kitchen,86.99,4.6,No,6,Bi-Weekly,Online,Member
+TXN000397,10194,2025-09-01,32,Female,Books,92.29,4.4,No,10,Quarterly,Online,Member
+TXN000398,10127,2025-11-24,43,Male,Clothing,58.34,5.0,Yes,6,Monthly,In-Store,Member
+TXN000399,10155,2025-04-28,58,Male,Beauty,95.82,2.7,No,4,Rarely,Online,Member
+TXN000400,10130,2025-03-23,62,Female,Home & Kitchen,141.18,4.4,Yes,4,Quarterly,Online,Member
+TXN000401,10017,2025-09-04,43,Male,Beauty,81.42,4.0,Yes,9,Weekly,Online,Member
+TXN000402,10104,2025-08-22,64,Male,Clothing,55.19,3.2,Yes,5,Monthly,In-Store,Member
+TXN000403,10161,2025-12-31,49,Male,Beauty,58.44,5.0,Yes,4,Monthly,Online,Non-Member
+TXN000404,10137,2025-06-02,27,Male,Home & Kitchen,153.66,4.2,Yes,2,Quarterly,In-Store,Member
+TXN000405,10043,2025-09-29,33,Female,Beauty,72.5,4.0,No,5,Quarterly,Online,Member
+TXN000406,10176,2025-02-04,24,Male,Electronics,188.98,4.3,No,4,Bi-Weekly,Online,Non-Member
+TXN000407,10039,2025-08-01,34,Male,Sports,103.16,2.8,No,5,Monthly,Online,Member
+TXN000408,10170,2025-07-30,40,Male,Clothing,99.94,3.1,No,2,Monthly,Online,Member
+TXN000409,10026,2025-05-19,43,Male,Sports,99.63,3.8,Yes,6,Weekly,Online,Member
+TXN000410,10099,2025-07-08,38,Male,Sports,114.76,4.2,No,5,Bi-Weekly,Online,Member
+TXN000411,10050,2025-10-27,39,Female,Sports,88.52,4.9,No,4,Bi-Weekly,Online,Non-Member
+TXN000412,10153,2025-09-09,24,Male,Home & Kitchen,95.4,3.4,No,4,Bi-Weekly,Online,Member
+TXN000413,10152,2025-05-30,31,Male,Electronics,222.44,3.2,Yes,2,Weekly,In-Store,Non-Member
+TXN000414,10013,2025-12-07,32,Male,Books,30.07,4.4,Yes,4,Weekly,In-Store,Member
+TXN000415,10060,2025-08-07,70,Male,Clothing,173.66,3.9,No,6,Quarterly,Online,Member
+TXN000416,10135,2025-03-23,24,Male,Home & Kitchen,129.35,2.7,No,5,Bi-Weekly,Online,Member
+TXN000417,10057,2025-07-09,26,Female,Beauty,87.3,3.4,No,7,Bi-Weekly,Online,Member
+TXN000418,10036,2025-08-22,68,Male,Beauty,49.0,3.9,Yes,1,Bi-Weekly,In-Store,Member
+TXN000419,10173,2025-06-25,65,Female,Clothing,71.8,3.9,Yes,2,Monthly,Online,Member
+TXN000420,10020,2025-08-20,25,Female,Beauty,55.94,4.1,No,5,Monthly,In-Store,Member
+TXN000421,10065,2025-12-24,67,Male,Sports,87.24,3.1,No,6,Bi-Weekly,Online,Non-Member
+TXN000422,10008,2025-03-04,40,Male,Clothing,69.06,3.9,Yes,8,Monthly,Online,Member
+TXN000423,10144,2025-08-25,46,Female,Books,82.76,4.7,No,5,Quarterly,Online,Non-Member
+TXN000424,10142,2025-02-02,35,Female,Clothing,87.54,2.0,Yes,9,Bi-Weekly,In-Store,Non-Member
+TXN000425,10115,2025-08-01,48,Male,Electronics,236.76,3.8,No,1,Monthly,Online,Member
+TXN000426,10143,2025-03-01,47,Female,Clothing,116.9,2.8,No,3,Monthly,Online,Member
+TXN000427,10092,2025-01-02,69,Female,Clothing,80.02,4.0,No,5,Bi-Weekly,In-Store,Member
+TXN000428,10098,2025-02-26,56,Female,Books,5.0,2.9,Yes,4,Quarterly,Online,Non-Member
+TXN000429,10066,2025-10-28,52,Female,Electronics,178.48,4.1,Yes,2,Quarterly,In-Store,Member
+TXN000430,10032,2025-10-14,35,Female,Electronics,195.97,5.0,No,4,Monthly,Online,Non-Member
+TXN000431,10191,2025-05-18,59,Female,Clothing,100.53,3.3,Yes,2,Bi-Weekly,In-Store,Member
+TXN000432,10086,2025-10-06,56,Female,Home & Kitchen,111.2,3.4,No,3,Rarely,Online,Non-Member
+TXN000433,10051,2025-08-02,34,Male,Home & Kitchen,194.96,3.7,No,9,Monthly,Online,Member
+TXN000434,10153,2025-08-27,31,Male,Electronics,167.23,4.2,Yes,5,Bi-Weekly,In-Store,Non-Member
+TXN000435,10186,2025-10-12,48,Male,Electronics,218.6,3.3,No,2,Monthly,Online,Member
+TXN000436,10063,2025-01-31,41,Female,Sports,87.88,3.7,Yes,6,Monthly,Online,Member
+TXN000437,10190,2025-07-25,52,Female,Electronics,222.74,3.5,No,6,Quarterly,Online,Member
+TXN000438,10125,2025-10-01,61,Male,Home & Kitchen,128.29,3.7,No,6,Bi-Weekly,Online,Member
+TXN000439,10150,2025-01-11,62,Female,Electronics,195.23,4.2,No,4,Bi-Weekly,Online,Non-Member
+TXN000440,10058,2025-12-25,51,Female,Beauty,58.54,4.4,Yes,8,Monthly,Online,Member
+TXN000441,10058,2025-02-16,20,Male,Electronics,207.25,3.0,No,5,Rarely,Online,Member
+TXN000442,10086,2025-01-03,54,Male,Home & Kitchen,139.3,4.2,No,8,Bi-Weekly,Online,Non-Member
+TXN000443,10049,2025-05-10,60,Female,Clothing,74.75,5.0,Yes,9,Quarterly,Online,Member
+TXN000444,10180,2025-03-13,57,Female,Books,57.18,5.0,No,5,Monthly,Online,Member
+TXN000445,10170,2025-06-08,43,Male,Electronics,192.4,3.6,Yes,6,Quarterly,In-Store,Non-Member
+TXN000446,10070,2025-05-10,40,Female,Beauty,82.82,4.1,No,6,Monthly,In-Store,Member
+TXN000447,10015,2025-01-22,61,Male,Electronics,237.04,4.0,No,6,Bi-Weekly,In-Store,Non-Member
+TXN000448,10054,2025-05-15,56,Male,Clothing,112.53,4.3,No,6,Monthly,Online,Member
+TXN000449,10188,2025-01-20,32,Other,Sports,92.8,3.7,No,2,Rarely,Online,Member
+TXN000450,10101,2025-08-08,66,Female,Electronics,185.6,3.8,No,2,Bi-Weekly,Online,Non-Member
+TXN000451,10008,2025-11-29,21,Male,Sports,71.28,3.5,Yes,6,Monthly,Online,Non-Member
+TXN000452,10053,2025-05-10,46,Male,Books,36.91,4.8,Yes,8,Bi-Weekly,Online,Member
+TXN000453,10060,2025-02-01,39,Female,Sports,93.3,4.2,Yes,6,Bi-Weekly,Online,Non-Member
+TXN000454,10108,2025-03-31,42,Female,Clothing,109.15,4.2,No,8,Quarterly,Online,Member
+TXN000455,10005,2025-09-16,30,Male,Beauty,81.64,4.9,No,5,Bi-Weekly,In-Store,Member
+TXN000456,10103,2025-10-25,35,Female,Electronics,212.18,4.9,No,6,Quarterly,Online,Non-Member
+TXN000457,10196,2025-11-29,50,Female,Sports,134.31,4.7,Yes,8,Monthly,Online,Member
+TXN000458,10006,2025-09-06,33,Female,Home & Kitchen,102.13,4.8,No,2,Rarely,Online,Member
+TXN000459,10109,2025-06-22,62,Male,Sports,143.9,5.0,No,8,Bi-Weekly,Online,Non-Member
+TXN000460,10116,2025-12-23,59,Male,Home & Kitchen,89.5,3.3,No,2,Weekly,In-Store,Non-Member
+TXN000461,10094,2025-02-16,61,Male,Home & Kitchen,142.3,3.8,No,8,Weekly,Online,Member
+TXN000462,10047,2025-07-16,19,Female,Clothing,70.87,4.5,Yes,3,Quarterly,Online,Member
+TXN000463,10099,2025-02-03,52,Female,Beauty,83.67,3.4,No,9,Monthly,Online,Member
+TXN000464,10055,2025-09-11,59,Male,Electronics,220.14,3.7,No,7,Weekly,Online,Non-Member
+TXN000465,10168,2025-09-05,51,Male,Home & Kitchen,86.7,4.1,No,7,Quarterly,Online,Non-Member
+TXN000466,10052,2025-02-11,47,Female,Beauty,37.67,3.8,Yes,4,Quarterly,In-Store,Member
+TXN000467,10144,2025-10-16,30,Male,Home & Kitchen,125.38,4.0,Yes,8,Quarterly,In-Store,Member
+TXN000468,10013,2025-05-03,30,Other,Clothing,79.85,3.2,No,3,Bi-Weekly,In-Store,Member
+TXN000469,10114,2025-01-27,35,Male,Home & Kitchen,105.1,4.0,No,5,Bi-Weekly,Online,Non-Member
+TXN000470,10124,2025-02-28,49,Male,Electronics,162.99,4.1,No,3,Quarterly,In-Store,Non-Member
+TXN000471,10106,2025-05-27,49,Male,Home & Kitchen,106.96,5.0,No,4,Monthly,Online,Non-Member
+TXN000472,10158,2025-04-25,52,Female,Clothing,94.58,3.8,No,2,Weekly,Online,Non-Member
+TXN000473,10147,2025-07-18,56,Male,Clothing,72.2,3.5,No,2,Bi-Weekly,In-Store,Member
+TXN000474,10145,2025-05-08,63,Other,Electronics,234.76,4.5,Yes,5,Rarely,Online,Member
+TXN000475,10120,2025-06-02,69,Female,Beauty,112.14,1.8,No,9,Weekly,Online,Member
+TXN000476,10063,2025-09-28,46,Male,Clothing,81.6,3.8,No,6,Quarterly,In-Store,Member
+TXN000477,10019,2025-12-05,66,Male,Electronics,192.42,3.6,Yes,5,Monthly,Online,Member
+TXN000478,10092,2025-03-24,46,Male,Books,5.0,4.2,Yes,1,Quarterly,Online,Member
+TXN000479,10058,2025-01-23,70,Male,Clothing,67.61,4.9,No,6,Monthly,Online,Non-Member
+TXN000480,10183,2025-01-11,61,Male,Home & Kitchen,76.01,5.0,Yes,6,Monthly,In-Store,Non-Member
+TXN000481,10090,2025-07-06,33,Male,Beauty,29.17,4.2,No,3,Bi-Weekly,In-Store,Member
+TXN000482,10117,2025-04-26,61,Female,Books,48.66,2.9,No,4,Quarterly,In-Store,Member
+TXN000483,10062,2025-06-11,64,Male,Beauty,75.07,3.6,Yes,4,Bi-Weekly,Online,Member
+TXN000484,10023,2025-04-13,27,Female,Beauty,86.87,3.7,Yes,4,Quarterly,Online,Non-Member
+TXN000485,10127,2025-08-31,47,Female,Sports,100.21,4.3,No,5,Monthly,Online,Non-Member
+TXN000486,10137,2025-01-07,42,Female,Electronics,156.36,4.0,No,7,Monthly,Online,Non-Member
+TXN000487,10140,2025-12-28,56,Female,Sports,100.15,3.5,No,7,Bi-Weekly,Online,Member
+TXN000488,10129,2025-06-21,37,Female,Clothing,96.68,3.1,Yes,5,Bi-Weekly,Online,Member
+TXN000489,10058,2025-09-13,22,Male,Books,62.11,3.4,No,13,Quarterly,Online,Member
+TXN000490,10122,2025-09-04,18,Male,Electronics,207.75,3.4,No,8,Weekly,In-Store,Non-Member
+TXN000491,10001,2025-07-11,47,Male,Home & Kitchen,97.05,5.0,No,2,Rarely,Online,Non-Member
+TXN000492,10034,2025-04-24,66,Female,Clothing,110.24,3.5,No,3,Rarely,Online,Non-Member
+TXN000493,10096,2025-01-23,20,Male,Beauty,64.41,4.0,Yes,5,Weekly,Online,Member
+TXN000494,10126,2025-12-24,62,Male,Clothing,92.67,4.7,No,9,Weekly,In-Store,Non-Member
+TXN000495,10118,2025-11-10,31,Male,Sports,83.65,4.1,Yes,7,Monthly,In-Store,Non-Member
+TXN000496,10048,2025-10-03,47,Female,Sports,87.72,3.2,No,6,Rarely,In-Store,Member
+TXN000497,10089,2025-05-16,67,Female,Clothing,85.09,4.7,Yes,7,Monthly,In-Store,Member
+TXN000498,10117,2025-12-23,21,Female,Sports,98.71,4.2,No,5,Bi-Weekly,Online,Non-Member
+TXN000499,10129,2025-07-14,35,Female,Beauty,43.74,2.5,No,6,Quarterly,Online,Member
+TXN000500,10016,2025-09-15,54,Female,Home & Kitchen,115.45,4.9,No,4,Bi-Weekly,Online,Non-Member
+TXN000501,10189,2025-10-05,42,Male,Electronics,220.63,4.6,No,3,Bi-Weekly,Online,Non-Member
+TXN000502,10192,2025-03-11,65,Female,Electronics,216.39,4.2,No,7,Bi-Weekly,Online,Non-Member
+TXN000503,10191,2025-12-25,18,Female,Clothing,108.38,5.0,No,6,Monthly,Online,Non-Member
+TXN000504,10069,2025-12-26,70,Female,Electronics,203.67,4.6,No,4,Weekly,In-Store,Non-Member
+TXN000505,10022,2025-02-05,63,Female,Sports,65.0,4.8,Yes,5,Monthly,In-Store,Non-Member
+TXN000506,10093,2025-04-18,32,Female,Clothing,91.4,4.7,Yes,5,Quarterly,In-Store,Member
+TXN000507,10195,2025-01-24,26,Female,Sports,68.8,4.5,No,3,Monthly,In-Store,Member
+TXN000508,10076,2025-05-20,32,Female,Electronics,179.01,2.7,Yes,2,Monthly,In-Store,Member
+TXN000509,10154,2025-01-22,66,Male,Home & Kitchen,105.23,2.8,No,1,Weekly,Online,Non-Member
+TXN000510,10144,2025-12-05,41,Other,Sports,80.73,4.6,Yes,3,Monthly,Online,Member
+TXN000511,10179,2025-11-25,21,Female,Sports,143.19,4.9,No,2,Weekly,In-Store,Member
+TXN000512,10086,2025-07-23,29,Female,Electronics,198.45,3.5,No,6,Monthly,In-Store,Member
+TXN000513,10185,2025-08-12,54,Male,Home & Kitchen,143.52,3.2,Yes,4,Bi-Weekly,Online,Non-Member
+TXN000514,10029,2025-08-11,54,Female,Electronics,188.26,4.2,Yes,4,Bi-Weekly,In-Store,Non-Member
+TXN000515,10069,2025-03-22,60,Female,Clothing,72.54,3.0,No,7,Weekly,Online,Non-Member
+TXN000516,10047,2025-11-26,23,Male,Electronics,193.94,3.9,No,4,Bi-Weekly,Online,Member
+TXN000517,10094,2025-07-10,56,Female,Electronics,188.55,3.8,No,3,Monthly,In-Store,Non-Member
+TXN000518,10190,2025-10-13,63,Male,Electronics,193.43,3.8,No,4,Monthly,Online,Non-Member
+TXN000519,10197,2025-05-27,41,Male,Beauty,56.42,5.0,Yes,4,Weekly,Online,Member
+TXN000520,10144,2025-10-09,28,Female,Electronics,208.62,3.6,Yes,5,Monthly,Online,Member
+TXN000521,10176,2025-01-11,30,Female,Home & Kitchen,113.34,4.0,Yes,6,Monthly,In-Store,Member
+TXN000522,10085,2025-10-03,51,Male,Electronics,211.33,3.1,No,3,Monthly,Online,Non-Member
+TXN000523,10039,2025-02-25,42,Female,Beauty,98.29,4.7,No,4,Quarterly,In-Store,Member
+TXN000524,10100,2025-06-22,24,Female,Sports,81.03,3.9,Yes,3,Bi-Weekly,Online,Member
+TXN000525,10033,2025-10-30,69,Male,Home & Kitchen,138.36,4.8,No,2,Bi-Weekly,Online,Non-Member
+TXN000526,10101,2025-07-23,21,Male,Beauty,82.91,2.3,No,0,Monthly,In-Store,Member
+TXN000527,10023,2025-12-11,25,Female,Electronics,233.72,4.0,No,5,Rarely,Online,Member
+TXN000528,10010,2025-09-05,37,Male,Home & Kitchen,62.73,4.1,No,4,Monthly,In-Store,Non-Member
+TXN000529,10069,2025-11-10,46,Female,Electronics,253.65,4.6,No,7,Quarterly,Online,Member
+TXN000530,10100,2025-09-23,70,Male,Electronics,532.13,3.6,No,1,Quarterly,In-Store,Non-Member
+TXN000531,10034,2025-01-22,68,Male,Beauty,36.91,4.6,No,3,Monthly,Online,Member
+TXN000532,10180,2025-11-23,62,Male,Sports,141.51,3.6,No,5,Monthly,Online,Non-Member
+TXN000533,10138,2025-01-24,63,Male,Clothing,99.04,4.1,No,5,Monthly,Online,Non-Member
+TXN000534,10147,2025-07-13,27,Other,Home & Kitchen,136.55,4.6,No,7,Monthly,Online,Member
+TXN000535,10186,2025-04-06,60,Female,Home & Kitchen,104.29,3.3,No,2,Monthly,Online,Non-Member
+TXN000536,10096,2025-09-20,51,Male,Clothing,86.96,4.5,No,4,Quarterly,Online,Non-Member
+TXN000537,10001,2025-03-13,43,Female,Clothing,77.89,4.2,No,4,Monthly,Online,Non-Member
+TXN000538,10069,2025-08-31,58,Female,Electronics,175.97,3.8,Yes,4,Weekly,Online,Non-Member
+TXN000539,10004,2025-02-07,66,Female,Clothing,90.81,3.5,No,6,Quarterly,Online,Non-Member
+TXN000540,10016,2025-03-30,20,Male,Clothing,88.89,2.5,No,8,Monthly,In-Store,Member
+TXN000541,10024,2025-01-28,23,Male,Electronics,177.47,3.9,No,6,Rarely,Online,Member
+TXN000542,10080,2025-04-02,22,Female,Electronics,185.72,3.8,No,5,Monthly,In-Store,Non-Member
+TXN000543,10002,2025-02-23,22,Female,Beauty,18.57,4.4,No,3,Weekly,In-Store,Member
+TXN000544,10128,2025-06-08,64,Male,Home & Kitchen,148.85,4.4,Yes,2,Weekly,In-Store,Member
+TXN000545,10160,2025-08-16,40,Female,Books,55.34,4.7,No,7,Quarterly,Online,Member
+TXN000546,10084,2025-02-10,66,Female,Electronics,610.2,4.8,No,3,Weekly,In-Store,Member
+TXN000547,10152,2025-02-06,26,Male,Beauty,65.59,5.0,Yes,6,Rarely,In-Store,Member
+TXN000548,10140,2025-05-05,52,Male,Sports,70.17,4.4,No,2,Bi-Weekly,In-Store,Non-Member
+TXN000549,10178,2025-06-28,37,Other,Beauty,66.21,3.4,Yes,7,Quarterly,Online,Member
+TXN000550,10163,2025-11-28,66,Female,Electronics,215.72,4.6,No,4,Quarterly,In-Store,Member
+TXN000551,10124,2025-02-06,59,Female,Beauty,33.58,5.0,Yes,9,Quarterly,In-Store,Non-Member
+TXN000552,10033,2025-04-11,52,Male,Clothing,135.09,4.3,No,9,Bi-Weekly,Online,Non-Member
+TXN000553,10161,2025-01-31,67,Male,Electronics,247.14,2.5,Yes,3,Monthly,Online,Member
+TXN000554,10189,2025-07-09,35,Male,Home & Kitchen,120.19,4.4,No,10,Weekly,Online,Member
+TXN000555,10179,2025-05-26,34,Male,Home & Kitchen,73.19,3.6,Yes,8,Bi-Weekly,In-Store,Non-Member
+TXN000556,10171,2025-03-31,41,Female,Clothing,66.99,3.1,No,3,Bi-Weekly,Online,Non-Member
+TXN000557,10101,2025-01-06,20,Male,Books,20.32,4.1,No,6,Quarterly,In-Store,Non-Member
+TXN000558,10012,2025-05-19,49,Female,Beauty,78.68,2.9,Yes,5,Weekly,Online,Non-Member
+TXN000559,10067,2025-04-05,52,Female,Home & Kitchen,101.92,4.7,No,4,Rarely,Online,Non-Member
+TXN000560,10065,2025-04-29,55,Male,Books,14.99,4.5,Yes,1,Weekly,Online,Member
+TXN000561,10161,2025-04-30,30,Female,Electronics,193.13,3.9,No,3,Bi-Weekly,Online,Non-Member
+TXN000562,10168,2025-05-03,64,Female,Books,19.2,3.6,No,5,Weekly,In-Store,Member
+TXN000563,10074,2025-10-12,42,Male,Home & Kitchen,128.0,3.9,No,5,Quarterly,In-Store,Non-Member
+TXN000564,10043,2025-06-28,26,Female,Clothing,87.3,3.3,No,7,Weekly,In-Store,Non-Member
+TXN000565,10044,2025-11-21,21,Male,Beauty,50.65,3.9,No,2,Quarterly,Online,Member
+TXN000566,10029,2025-01-07,31,Female,Beauty,41.15,2.0,Yes,4,Monthly,In-Store,Member
+TXN000567,10141,2025-11-08,54,Male,Beauty,81.17,4.1,No,4,Rarely,Online,Member
+TXN000568,10012,2025-05-07,51,Female,Books,20.68,4.1,Yes,4,Bi-Weekly,Online,Member
+TXN000569,10095,2025-03-18,28,Female,Beauty,47.07,4.6,No,8,Monthly,Online,Non-Member
+TXN000570,10046,2025-08-22,58,Other,Home & Kitchen,122.74,4.2,No,9,Monthly,In-Store,Member
+TXN000571,10130,2025-11-14,20,Male,Sports,46.79,4.7,Yes,6,Quarterly,In-Store,Non-Member
+TXN000572,10035,2025-03-15,45,Male,Beauty,43.65,4.4,Yes,3,Monthly,In-Store,Member
+TXN000573,10081,2025-09-28,46,Female,Electronics,164.89,4.7,Yes,5,Quarterly,Online,Non-Member
+TXN000574,10090,2025-11-05,26,Male,Sports,116.88,5.0,No,5,Weekly,In-Store,Non-Member
+TXN000575,10008,2025-04-30,20,Male,Clothing,66.32,4.3,No,4,Quarterly,Online,Non-Member
+TXN000576,10093,2025-02-04,42,Male,Beauty,40.07,4.1,Yes,3,Bi-Weekly,Online,Member
+TXN000577,10154,2025-07-26,51,Male,Sports,109.19,4.8,No,2,Weekly,Online,Non-Member
+TXN000578,10090,2025-09-27,29,Female,Beauty,43.82,3.7,Yes,3,Bi-Weekly,Online,Member
+TXN000579,10162,2025-04-03,59,Female,Beauty,50.9,3.9,No,3,Quarterly,Online,Member
+TXN000580,10115,2025-06-26,26,Male,Beauty,91.83,4.3,No,6,Rarely,Online,Member
+TXN000581,10105,2025-10-01,32,Female,Home & Kitchen,108.69,4.1,No,6,Monthly,In-Store,Member
+TXN000582,10135,2025-06-28,57,Female,Sports,106.35,4.0,No,2,Quarterly,In-Store,Non-Member
+TXN000583,10196,2025-05-09,42,Male,Clothing,88.77,4.6,No,2,Monthly,Online,Member
+TXN000584,10058,2025-05-05,22,Male,Clothing,58.74,2.8,Yes,3,Quarterly,In-Store,Non-Member
+TXN000585,10114,2025-01-27,28,Male,Electronics,215.39,5.0,No,10,Weekly,Online,Non-Member
+TXN000586,10075,2025-03-05,51,Male,Home & Kitchen,105.58,4.3,No,1,Monthly,Online,Member
+TXN000587,10157,2025-03-01,41,Male,Home & Kitchen,84.63,3.7,No,4,Weekly,In-Store,Non-Member
+TXN000588,10120,2025-08-07,32,Female,Sports,129.84,5.0,No,3,Bi-Weekly,Online,Member
+TXN000589,10164,2025-08-05,55,Female,Electronics,230.89,4.1,No,8,Monthly,Online,Member
+TXN000590,10021,2025-06-18,25,Female,Home & Kitchen,111.57,4.1,No,1,Quarterly,Online,Member
+TXN000591,10164,2025-05-29,22,Female,Clothing,100.41,3.8,No,8,Monthly,Online,Non-Member
+TXN000592,10138,2025-09-27,65,Male,Electronics,202.53,5.0,Yes,8,Rarely,In-Store,Non-Member
+TXN000593,10101,2025-04-26,43,Female,Beauty,95.5,4.0,No,5,Quarterly,Online,Member
+TXN000594,10152,2025-09-02,35,Female,Clothing,64.81,3.6,Yes,9,Weekly,Online,Member
+TXN000595,10192,2025-05-28,23,Female,Electronics,181.34,4.7,Yes,5,Bi-Weekly,Online,Non-Member
+TXN000596,10177,2025-04-02,54,Female,Clothing,123.36,4.8,No,10,Monthly,In-Store,Member
+TXN000597,10099,2025-03-26,65,Female,Clothing,122.35,5.0,Yes,9,Rarely,Online,Non-Member
+TXN000598,10036,2025-03-28,30,Female,Home & Kitchen,89.91,4.4,Yes,4,Rarely,In-Store,Member
+TXN000599,10096,2025-04-30,45,Female,Clothing,98.75,4.8,No,5,Quarterly,Online,Member
+TXN000600,10152,2025-12-06,22,Female,Beauty,51.53,3.8,Yes,7,Monthly,Online,Non-Member
+TXN000601,10151,2025-01-24,30,Female,Sports,84.53,4.7,No,8,Quarterly,Online,Member
+TXN000602,10190,2025-03-30,34,Male,Home & Kitchen,102.37,4.5,No,4,Bi-Weekly,Online,Non-Member
+TXN000603,10037,2025-02-06,67,Female,Books,8.62,4.4,No,2,Bi-Weekly,Online,Non-Member
+TXN000604,10012,2025-12-08,57,Female,Electronics,204.97,2.9,Yes,8,Monthly,Online,Member
+TXN000605,10113,2025-09-28,62,Male,Home & Kitchen,92.26,3.7,Yes,7,Quarterly,In-Store,Member
+TXN000606,10183,2025-01-12,49,Female,Books,47.99,4.0,No,5,Rarely,Online,Non-Member
+TXN000607,10013,2025-04-05,46,Male,Clothing,75.88,4.4,No,9,Bi-Weekly,In-Store,Non-Member
+TXN000608,10023,2025-01-31,68,Male,Books,59.23,5.0,No,8,Quarterly,Online,Member
+TXN000609,10099,2025-12-16,20,Female,Clothing,102.98,4.6,Yes,6,Quarterly,Online,Non-Member
+TXN000610,10105,2025-08-21,57,Male,Electronics,216.61,3.4,No,6,Monthly,Online,Member
+TXN000611,10030,2025-12-06,51,Female,Clothing,120.07,3.7,Yes,5,Bi-Weekly,In-Store,Member
+TXN000612,10017,2025-11-24,57,Male,Beauty,74.27,5.0,No,4,Monthly,Online,Non-Member
+TXN000613,10113,2025-10-27,44,Female,Home & Kitchen,150.14,3.6,No,9,Monthly,Online,Member
+TXN000614,10062,2025-10-13,30,Male,Beauty,24.97,4.7,Yes,2,Monthly,Online,Non-Member
+TXN000615,10084,2025-02-04,62,Female,Electronics,204.64,4.1,No,8,Monthly,Online,Member
+TXN000616,10112,2025-01-21,50,Male,Electronics,189.88,3.9,Yes,5,Quarterly,Online,Non-Member
+TXN000617,10086,2025-04-21,23,Male,Clothing,114.64,3.6,No,4,Bi-Weekly,Online,Member
+TXN000618,10141,2025-11-15,41,Female,Electronics,201.27,1.9,No,5,Bi-Weekly,Online,Member
+TXN000619,10187,2025-12-14,36,Female,Books,5.0,4.4,Yes,3,Monthly,Online,Non-Member
+TXN000620,10019,2025-05-25,33,Male,Electronics,213.41,3.3,No,8,Bi-Weekly,In-Store,Member
+TXN000621,10177,2025-01-12,57,Male,Sports,118.26,3.0,No,7,Rarely,Online,Member
+TXN000622,10100,2025-09-01,45,Female,Sports,96.33,4.2,No,4,Bi-Weekly,Online,Member
+TXN000623,10140,2025-05-26,50,Male,Electronics,187.89,4.7,Yes,2,Monthly,Online,Member
+TXN000624,10189,2025-08-27,65,Male,Home & Kitchen,87.49,2.8,No,3,Quarterly,In-Store,Non-Member
+TXN000625,10147,2025-04-02,58,Male,Clothing,103.43,4.7,Yes,2,Weekly,Online,Member
+TXN000626,10076,2025-11-12,30,Female,Clothing,95.61,3.4,No,7,Quarterly,Online,Member
+TXN000627,10009,2025-11-19,60,Male,Clothing,104.29,4.5,No,5,Monthly,Online,Member
+TXN000628,10199,2025-04-25,62,Female,Home & Kitchen,108.18,4.4,Yes,6,Weekly,Online,Member
+TXN000629,10028,2025-01-15,42,Other,Electronics,223.5,3.9,Yes,2,Rarely,Online,Member
+TXN000630,10128,2025-09-29,70,Female,Home & Kitchen,130.16,4.0,No,6,Weekly,In-Store,Member
+TXN000631,10052,2025-01-22,59,Female,Home & Kitchen,70.05,3.7,No,3,Monthly,In-Store,Member
+TXN000632,10083,2025-04-28,53,Male,Electronics,206.77,4.2,No,3,Weekly,Online,Non-Member
+TXN000633,10111,2025-04-05,44,Female,Beauty,43.58,4.2,Yes,3,Weekly,Online,Non-Member
+TXN000634,10144,2025-09-14,55,Other,Beauty,75.94,3.4,No,6,Quarterly,Online,Member
+TXN000635,10117,2025-11-27,24,Other,Clothing,101.86,3.0,Yes,5,Quarterly,Online,Member
+TXN000636,10069,2025-09-19,22,Male,Clothing,96.85,4.7,No,8,Bi-Weekly,Online,Member
+TXN000637,10099,2025-03-28,60,Female,Beauty,114.87,4.1,No,4,Monthly,Online,Member
+TXN000638,10140,2025-11-14,62,Male,Electronics,208.82,4.6,No,5,Quarterly,In-Store,Member
+TXN000639,10025,2025-02-27,68,Female,Beauty,60.73,3.5,Yes,5,Quarterly,Online,Member
+TXN000640,10180,2025-08-18,48,Female,Electronics,174.71,3.4,No,7,Monthly,Online,Member
+TXN000641,10123,2025-04-18,40,Male,Electronics,195.01,3.3,No,6,Quarterly,Online,Member
+TXN000642,10053,2025-01-19,59,Female,Clothing,84.46,3.9,No,1,Monthly,Online,Member
+TXN000643,10151,2025-12-31,27,Female,Clothing,107.61,4.2,Yes,2,Monthly,Online,Member
+TXN000644,10144,2025-05-21,49,Other,Home & Kitchen,111.72,3.6,No,7,Rarely,In-Store,Member
+TXN000645,10057,2025-06-09,60,Female,Electronics,257.32,5.0,No,9,Bi-Weekly,Online,Member
+TXN000646,10039,2025-04-10,70,Female,Beauty,47.24,3.6,Yes,10,Weekly,In-Store,Member
+TXN000647,10109,2025-09-22,47,Male,Sports,89.36,4.2,No,7,Bi-Weekly,In-Store,Member
+TXN000648,10181,2025-08-26,56,Female,Home & Kitchen,138.39,3.4,Yes,7,Weekly,In-Store,Member
+TXN000649,10042,2025-08-26,48,Male,Beauty,47.51,3.5,Yes,2,Bi-Weekly,Online,Member
+TXN000650,10186,2025-02-18,35,Other,Electronics,231.93,3.9,No,5,Quarterly,Online,Member
+TXN000651,10167,2025-06-14,53,Male,Electronics,194.07,3.4,No,5,Monthly,Online,Member
+TXN000652,10142,2025-10-14,19,Male,Beauty,56.38,4.1,No,7,Bi-Weekly,Online,Member
+TXN000653,10122,2025-02-28,31,Female,Electronics,220.87,4.3,No,5,Bi-Weekly,Online,Member
+TXN000654,10133,2025-07-02,30,Female,Home & Kitchen,75.43,4.8,Yes,6,Bi-Weekly,In-Store,Non-Member
+TXN000655,10163,2025-05-27,46,Male,Clothing,87.66,3.2,No,4,Monthly,Online,Member
+TXN000656,10075,2025-10-28,29,Male,Home & Kitchen,140.74,4.1,No,11,Monthly,Online,Member
+TXN000657,10146,2025-04-06,56,Male,Sports,85.44,4.0,Yes,5,Weekly,Online,Non-Member
+TXN000658,10076,2025-02-12,19,Female,Sports,83.17,2.7,Yes,6,Rarely,Online,Member
+TXN000659,10009,2025-12-20,49,Female,Beauty,46.09,3.2,No,3,Monthly,Online,Member
+TXN000660,10074,2025-09-14,30,Female,Beauty,76.19,4.3,No,1,Rarely,In-Store,Non-Member
+TXN000661,10186,2025-08-01,63,Male,Home & Kitchen,145.74,3.1,No,5,Weekly,In-Store,Non-Member
+TXN000662,10145,2025-07-08,44,Female,Home & Kitchen,124.25,3.9,No,5,Quarterly,In-Store,Member
+TXN000663,10007,2025-05-11,66,Male,Clothing,77.39,2.5,Yes,5,Monthly,In-Store,Member
+TXN000664,10174,2025-12-13,58,Male,Electronics,203.4,3.9,No,6,Quarterly,In-Store,Member
+TXN000665,10141,2025-10-27,34,Female,Electronics,218.61,2.6,No,1,Monthly,Online,Member
+TXN000666,10168,2025-10-16,57,Male,Books,73.75,3.6,Yes,11,Rarely,In-Store,Member
+TXN000667,10170,2025-05-17,48,Female,Electronics,181.92,3.7,Yes,1,Monthly,Online,Member
+TXN000668,10137,2025-01-30,51,Male,Home & Kitchen,150.39,4.1,No,5,Quarterly,Online,Member
+TXN000669,10178,2025-05-26,41,Male,Home & Kitchen,119.58,3.8,No,6,Quarterly,In-Store,Non-Member
+TXN000670,10027,2025-11-08,62,Male,Home & Kitchen,140.76,3.1,No,5,Quarterly,Online,Non-Member
+TXN000671,10122,2025-04-15,52,Male,Beauty,41.76,3.1,No,5,Monthly,Online,Member
+TXN000672,10194,2025-10-14,65,Female,Clothing,65.43,2.9,Yes,3,Bi-Weekly,Online,Non-Member
+TXN000673,10005,2025-07-10,23,Female,Home & Kitchen,115.95,4.1,No,5,Quarterly,Online,Member
+TXN000674,10029,2025-06-27,36,Male,Sports,72.28,4.1,No,2,Monthly,In-Store,Non-Member
+TXN000675,10165,2025-12-11,47,Female,Home & Kitchen,171.53,4.5,No,7,Monthly,Online,Member
+TXN000676,10166,2025-08-27,24,Female,Electronics,197.78,3.6,No,6,Weekly,Online,Member
+TXN000677,10083,2025-01-01,27,Female,Beauty,81.05,2.8,No,5,Monthly,Online,Member
+TXN000678,10136,2025-04-20,58,Male,Sports,105.06,3.8,Yes,4,Monthly,Online,Member
+TXN000679,10109,2025-12-04,49,Female,Clothing,80.07,4.0,No,4,Monthly,In-Store,Member
+TXN000680,10065,2025-10-02,51,Male,Beauty,50.96,3.2,No,6,Monthly,Online,Non-Member
+TXN000681,10086,2025-08-22,45,Other,Sports,154.28,3.3,No,11,Bi-Weekly,Online,Non-Member
+TXN000682,10145,2025-03-05,32,Female,Home & Kitchen,110.92,4.3,No,6,Bi-Weekly,In-Store,Member
+TXN000683,10071,2025-09-01,47,Female,Books,65.21,4.1,No,4,Quarterly,In-Store,Member
+TXN000684,10045,2025-02-22,54,Female,Beauty,60.29,4.8,No,0,Bi-Weekly,In-Store,Member
+TXN000685,10132,2025-09-19,46,Male,Beauty,45.41,5.0,No,5,Monthly,In-Store,Non-Member
+TXN000686,10036,2025-01-17,39,Female,Beauty,60.53,2.9,No,3,Monthly,Online,Non-Member
+TXN000687,10070,2025-10-29,21,Female,Clothing,68.63,3.7,Yes,2,Rarely,Online,Non-Member
+TXN000688,10159,2025-08-22,37,Female,Clothing,69.12,4.1,No,4,Weekly,Online,Non-Member
+TXN000689,10019,2025-03-14,49,Male,Home & Kitchen,91.43,4.3,Yes,5,Weekly,In-Store,Member
+TXN000690,10189,2025-12-23,53,Female,Electronics,228.13,4.7,No,8,Monthly,Online,Member
+TXN000691,10108,2025-04-01,67,Male,Electronics,212.91,4.5,No,2,Monthly,Online,Member
+TXN000692,10182,2025-01-06,21,Male,Sports,66.1,4.8,Yes,4,Weekly,Online,Non-Member
+TXN000693,10167,2025-07-17,44,Female,Sports,86.55,4.0,Yes,9,Quarterly,Online,Member
+TXN000694,10091,2025-12-31,34,Male,Home & Kitchen,114.78,3.6,Yes,2,Monthly,Online,Member
+TXN000695,10090,2025-07-15,29,Female,Sports,44.05,5.0,No,5,Bi-Weekly,In-Store,Non-Member
+TXN000696,10019,2025-10-23,39,Male,Beauty,69.82,4.1,No,6,Bi-Weekly,Online,Member
+TXN000697,10039,2025-12-13,34,Male,Electronics,204.27,3.8,No,6,Quarterly,In-Store,Member
+TXN000698,10126,2025-11-18,27,Male,Clothing,284.77,3.2,Yes,6,Bi-Weekly,In-Store,Non-Member
+TXN000699,10195,2025-05-17,18,Female,Home & Kitchen,118.73,4.1,No,5,Weekly,Online,Member
+TXN000700,10173,2025-09-24,39,Female,Beauty,67.12,4.7,No,5,Bi-Weekly,Online,Member
+TXN000701,10141,2025-04-26,43,Female,Electronics,204.01,3.6,No,5,Monthly,Online,Non-Member
+TXN000702,10126,2025-02-12,35,Female,Beauty,44.99,3.9,No,5,Quarterly,Online,Non-Member
+TXN000703,10058,2025-08-19,67,Female,Clothing,60.53,4.2,Yes,2,Bi-Weekly,In-Store,Non-Member
+TXN000704,10148,2025-02-27,31,Female,Beauty,66.99,4.3,No,2,Bi-Weekly,Online,Member
+TXN000705,10200,2025-07-25,64,Female,Sports,122.45,3.8,Yes,7,Bi-Weekly,Online,Member
+TXN000706,10061,2025-10-21,46,Female,Beauty,36.89,3.7,Yes,4,Monthly,Online,Non-Member
+TXN000707,10127,2025-04-04,29,Male,Books,43.12,3.6,No,5,Bi-Weekly,In-Store,Member
+TXN000708,10105,2025-02-05,53,Female,Sports,59.45,3.2,No,2,Quarterly,In-Store,Member
+TXN000709,10167,2025-08-18,52,Female,Sports,91.57,3.5,Yes,4,Weekly,In-Store,Non-Member
+TXN000710,10001,2025-08-15,69,Female,Books,49.98,3.4,No,6,Weekly,In-Store,Member
+TXN000711,10131,2025-07-02,29,Female,Sports,144.1,2.9,No,3,Weekly,Online,Member
+TXN000712,10092,2025-09-19,24,Male,Beauty,61.53,4.7,Yes,6,Quarterly,In-Store,Member
+TXN000713,10190,2025-05-11,46,Female,Clothing,72.83,4.3,No,3,Monthly,Online,Member
+TXN000714,10191,2025-03-06,28,Male,Home & Kitchen,96.14,4.1,No,9,Rarely,In-Store,Member
+TXN000715,10113,2025-07-05,50,Other,Home & Kitchen,124.06,4.9,No,0,Bi-Weekly,In-Store,Member
+TXN000716,10153,2025-04-27,23,Male,Electronics,216.87,4.5,Yes,2,Bi-Weekly,Online,Non-Member
+TXN000717,10056,2025-07-05,64,Male,Electronics,224.18,3.4,No,3,Monthly,In-Store,Non-Member
+TXN000718,10161,2025-10-01,32,Male,Books,24.52,4.8,No,9,Monthly,In-Store,Member
+TXN000719,10166,2025-05-31,49,Other,Sports,113.92,4.7,No,4,Monthly,Online,Member
+TXN000720,10117,2025-12-18,68,Male,Sports,126.39,3.2,Yes,7,Bi-Weekly,In-Store,Member
+TXN000721,10134,2025-05-31,28,Male,Electronics,178.29,4.6,No,6,Weekly,Online,Member
+TXN000722,10058,2025-02-05,40,Male,Clothing,102.02,3.7,Yes,9,Weekly,Online,Non-Member
+TXN000723,10044,2025-11-22,43,Male,Clothing,65.49,4.7,No,4,Monthly,Online,Non-Member
+TXN000724,10173,2025-04-05,51,Male,Electronics,198.61,3.8,No,7,Monthly,Online,Non-Member
+TXN000725,10160,2025-05-14,63,Female,Clothing,84.24,3.6,Yes,3,Quarterly,In-Store,Member
+TXN000726,10173,2025-06-11,51,Female,Clothing,102.25,3.7,Yes,5,Bi-Weekly,In-Store,Member
+TXN000727,10061,2025-02-13,46,Female,Books,79.4,3.3,No,4,Quarterly,In-Store,Member
+TXN000728,10047,2025-10-27,21,Female,Beauty,56.75,3.0,No,2,Monthly,Online,Member
+TXN000729,10149,2025-10-10,34,Female,Electronics,159.75,2.3,Yes,1,Weekly,In-Store,Non-Member
+TXN000730,10080,2025-12-22,52,Female,Clothing,67.58,3.3,No,2,Rarely,Online,Non-Member
+TXN000731,10118,2025-08-28,30,Male,Home & Kitchen,130.65,5.0,No,5,Monthly,In-Store,Member
+TXN000732,10164,2025-02-21,58,Female,Clothing,108.4,4.3,No,5,Monthly,Online,Non-Member
+TXN000733,10147,2025-10-08,56,Male,Books,77.68,5.0,No,5,Monthly,Online,Member
+TXN000734,10020,2025-03-15,32,Female,Electronics,210.34,3.8,No,8,Bi-Weekly,In-Store,Member
+TXN000735,10185,2025-10-22,46,Female,Electronics,208.41,3.7,No,6,Quarterly,Online,Non-Member
+TXN000736,10146,2025-08-26,46,Male,Electronics,191.83,5.0,Yes,3,Quarterly,Online,Member
+TXN000737,10047,2025-06-16,28,Male,Clothing,74.38,4.3,Yes,3,Bi-Weekly,Online,Member
+TXN000738,10049,2025-05-20,69,Female,Home & Kitchen,128.04,3.3,Yes,5,Monthly,Online,Non-Member
+TXN000739,10014,2025-05-19,49,Male,Beauty,241.89,4.4,No,3,Quarterly,Online,Non-Member
+TXN000740,10143,2025-08-23,19,Male,Beauty,52.94,4.9,No,2,Bi-Weekly,Online,Member
+TXN000741,10159,2025-01-03,64,Female,Clothing,115.99,3.0,Yes,6,Bi-Weekly,Online,Member
+TXN000742,10001,2025-09-13,31,Female,Home & Kitchen,98.18,4.3,No,6,Weekly,Online,Non-Member
+TXN000743,10117,2025-10-05,37,Other,Home & Kitchen,108.26,3.0,No,6,Monthly,In-Store,Non-Member
+TXN000744,10054,2025-01-04,39,Male,Sports,71.27,4.8,No,6,Quarterly,Online,Non-Member
+TXN000745,10118,2025-09-27,28,Male,Electronics,180.79,4.2,No,7,Monthly,In-Store,Member
+TXN000746,10003,2025-07-31,44,Male,Electronics,175.02,4.4,Yes,2,Bi-Weekly,In-Store,Non-Member
+TXN000747,10144,2025-08-04,20,Female,Home & Kitchen,97.28,3.8,Yes,7,Monthly,Online,Member
+TXN000748,10185,2025-09-27,34,Female,Home & Kitchen,95.66,2.8,No,4,Quarterly,In-Store,Non-Member
+TXN000749,10012,2025-01-16,61,Female,Home & Kitchen,147.94,3.7,No,5,Bi-Weekly,In-Store,Member
+TXN000750,10074,2025-03-05,45,Male,Electronics,177.51,4.7,Yes,5,Quarterly,In-Store,Non-Member
+TXN000751,10016,2025-08-27,46,Male,Home & Kitchen,145.3,5.0,No,5,Quarterly,Online,Member
+TXN000752,10200,2025-01-16,38,Male,Sports,89.52,4.2,No,4,Weekly,Online,Member
+TXN000753,10102,2025-02-21,64,Female,Home & Kitchen,132.28,3.5,No,4,Bi-Weekly,In-Store,Member
+TXN000754,10152,2025-01-19,33,Female,Books,8.65,4.4,Yes,3,Monthly,In-Store,Member
+TXN000755,10156,2025-11-21,54,Female,Home & Kitchen,98.4,4.6,No,3,Quarterly,In-Store,Non-Member
+TXN000756,10117,2025-04-03,37,Male,Books,57.82,4.1,No,7,Quarterly,Online,Non-Member
+TXN000757,10008,2025-09-18,23,Male,Sports,75.03,4.0,Yes,5,Monthly,In-Store,Non-Member
+TXN000758,10122,2025-10-25,36,Female,Electronics,208.93,4.1,Yes,4,Bi-Weekly,In-Store,Member
+TXN000759,10092,2025-01-17,22,Male,Sports,114.39,4.0,No,9,Bi-Weekly,Online,Non-Member
+TXN000760,10164,2025-04-21,20,Female,Clothing,70.22,4.2,No,5,Quarterly,Online,Non-Member
+TXN000761,10090,2025-11-24,18,Male,Books,67.03,5.0,Yes,5,Bi-Weekly,Online,Member
+TXN000762,10136,2025-12-26,55,Female,Home & Kitchen,121.15,2.6,Yes,6,Monthly,In-Store,Member
+TXN000763,10186,2025-04-04,32,Male,Clothing,58.44,3.8,Yes,6,Bi-Weekly,In-Store,Non-Member
+TXN000764,10060,2025-01-10,51,Female,Beauty,51.76,3.3,Yes,6,Weekly,In-Store,Non-Member
+TXN000765,10178,2025-07-31,52,Male,Books,35.2,4.8,Yes,4,Bi-Weekly,Online,Non-Member
+TXN000766,10028,2025-08-25,66,Female,Clothing,101.34,3.9,No,3,Bi-Weekly,Online,Member
+TXN000767,10101,2025-09-11,42,Female,Home & Kitchen,119.58,4.4,No,4,Monthly,Online,Member
+TXN000768,10041,2025-01-16,41,Female,Beauty,82.45,5.0,No,5,Weekly,Online,Member
+TXN000769,10192,2025-05-24,29,Female,Sports,98.23,3.2,No,2,Rarely,In-Store,Non-Member
+TXN000770,10155,2025-02-11,35,Female,Electronics,188.91,3.6,Yes,6,Monthly,In-Store,Non-Member
+TXN000771,10191,2025-01-03,32,Male,Clothing,83.61,4.9,No,0,Monthly,In-Store,Member
+TXN000772,10145,2025-06-05,61,Female,Clothing,74.24,3.2,Yes,9,Monthly,In-Store,Non-Member
+TXN000773,10161,2025-06-22,33,Male,Home & Kitchen,89.16,3.7,Yes,3,Monthly,Online,Member
+TXN000774,10157,2025-01-24,44,Male,Electronics,172.15,2.9,Yes,10,Weekly,Online,Non-Member
+TXN000775,10141,2025-10-02,25,Male,Books,24.88,5.0,No,4,Rarely,In-Store,Member
+TXN000776,10046,2025-03-16,63,Female,Clothing,70.75,3.6,Yes,4,Monthly,In-Store,Member
+TXN000777,10035,2025-02-09,42,Female,Beauty,114.88,4.2,No,7,Weekly,Online,Member
+TXN000778,10134,2025-10-29,34,Male,Clothing,120.04,4.5,No,5,Monthly,Online,Member
+TXN000779,10082,2025-02-09,46,Other,Clothing,80.65,3.4,No,4,Monthly,Online,Member
+TXN000780,10115,2025-03-03,70,Female,Electronics,235.39,2.7,No,10,Weekly,Online,Member
+TXN000781,10197,2025-08-26,25,Female,Electronics,181.76,3.8,Yes,5,Rarely,Online,Non-Member
+TXN000782,10047,2025-09-02,32,Female,Beauty,58.79,3.8,Yes,7,Weekly,Online,Non-Member
+TXN000783,10153,2025-01-18,44,Other,Books,39.33,4.0,No,3,Monthly,Online,Member
+TXN000784,10194,2025-05-20,63,Female,Home & Kitchen,177.27,4.0,No,4,Rarely,Online,Member
+TXN000785,10010,2025-03-23,67,Female,Books,80.17,3.7,Yes,3,Bi-Weekly,In-Store,Member
+TXN000786,10056,2025-07-08,69,Male,Sports,82.41,3.6,Yes,2,Bi-Weekly,Online,Non-Member
+TXN000787,10030,2025-04-18,24,Female,Home & Kitchen,95.28,4.2,No,3,Weekly,In-Store,Member
+TXN000788,10109,2025-08-22,20,Female,Sports,106.16,3.4,No,6,Weekly,In-Store,Non-Member
+TXN000789,10005,2025-09-25,46,Male,Beauty,32.49,3.9,No,7,Weekly,In-Store,Non-Member
+TXN000790,10119,2025-04-14,61,Male,Clothing,107.86,3.6,Yes,5,Quarterly,Online,Member
+TXN000791,10033,2025-05-14,70,Female,Beauty,72.66,4.2,No,3,Quarterly,In-Store,Member
+TXN000792,10118,2025-12-10,41,Female,Clothing,49.1,4.8,Yes,3,Quarterly,Online,Member
+TXN000793,10065,2025-02-02,20,Female,Home & Kitchen,111.26,4.8,No,7,Bi-Weekly,In-Store,Member
+TXN000794,10146,2025-08-25,37,Female,Beauty,35.22,4.9,No,3,Quarterly,In-Store,Non-Member
+TXN000795,10177,2025-12-02,63,Male,Clothing,79.51,3.8,Yes,4,Monthly,Online,Non-Member
+TXN000796,10011,2025-06-27,32,Female,Clothing,96.87,3.8,No,7,Bi-Weekly,Online,Member
+TXN000797,10085,2025-01-12,42,Female,Books,11.06,3.1,No,4,Monthly,Online,Non-Member
+TXN000798,10026,2025-12-17,47,Female,Home & Kitchen,101.0,3.8,No,2,Weekly,Online,Non-Member
+TXN000799,10063,2025-08-17,31,Male,Clothing,88.79,3.8,No,3,Rarely,Online,Non-Member
+TXN000800,10086,2025-11-05,24,Male,Beauty,71.03,3.6,Yes,2,Monthly,Online,Member
+TXN000801,10059,2025-09-26,34,Male,Home & Kitchen,109.91,3.6,Yes,8,Quarterly,Online,Member
+TXN000802,10027,2025-12-24,61,Female,Home & Kitchen,131.12,2.8,Yes,6,Monthly,Online,Member
+TXN000803,10177,2025-05-11,37,Male,Books,59.71,3.1,No,12,Monthly,Online,Non-Member
+TXN000804,10161,2025-09-06,53,Male,Beauty,74.29,4.0,No,4,Weekly,Online,Member
+TXN000805,10098,2025-02-27,26,Female,Electronics,202.11,4.1,Yes,3,Monthly,Online,Member
+TXN000806,10105,2025-01-04,55,Female,Sports,63.2,4.3,Yes,1,Quarterly,Online,Non-Member
+TXN000807,10099,2025-08-24,65,Female,Sports,95.07,3.8,Yes,6,Weekly,Online,Non-Member
+TXN000808,10129,2025-06-22,39,Female,Clothing,41.06,4.0,No,2,Rarely,Online,Non-Member
+TXN000809,10149,2025-11-18,70,Female,Clothing,90.51,4.9,No,4,Monthly,In-Store,Member
+TXN000810,10055,2025-02-05,70,Female,Clothing,131.05,4.0,No,4,Bi-Weekly,Online,Member
+TXN000811,10006,2025-10-06,19,Female,Beauty,49.72,3.6,No,5,Monthly,Online,Non-Member
+TXN000812,10197,2025-08-25,41,Male,Home & Kitchen,151.6,3.2,No,4,Quarterly,Online,Member
+TXN000813,10095,2025-10-02,25,Female,Home & Kitchen,105.57,4.6,No,5,Monthly,In-Store,Member
+TXN000814,10133,2025-10-23,28,Male,Books,12.74,2.8,Yes,7,Monthly,In-Store,Member
+TXN000815,10102,2025-11-24,30,Male,Beauty,79.94,3.4,No,6,Monthly,In-Store,Member
+TXN000816,10003,2025-02-27,34,Male,Clothing,92.91,4.3,No,4,Monthly,In-Store,Member
+TXN000817,10181,2025-12-29,25,Male,Electronics,234.27,2.7,Yes,5,Weekly,Online,Non-Member
+TXN000818,10023,2025-01-18,38,Female,Electronics,171.36,3.6,No,3,Weekly,Online,Non-Member
+TXN000819,10053,2025-02-05,35,Male,Electronics,186.39,4.1,Yes,1,Weekly,Online,Non-Member
+TXN000820,10165,2025-05-09,47,Female,Beauty,74.57,3.7,No,4,Bi-Weekly,In-Store,Member
+TXN000821,10083,2025-01-01,35,Female,Sports,123.03,3.3,No,5,Bi-Weekly,In-Store,Member
+TXN000822,10145,2025-03-05,63,Male,Electronics,210.21,3.6,Yes,6,Monthly,In-Store,Member
+TXN000823,10085,2025-03-03,64,Female,Home & Kitchen,99.86,4.6,Yes,4,Monthly,Online,Non-Member
+TXN000824,10078,2025-11-27,48,Female,Beauty,44.44,5.0,No,5,Weekly,In-Store,Member
+TXN000825,10110,2025-05-26,55,Male,Electronics,201.98,4.1,Yes,7,Weekly,Online,Non-Member
+TXN000826,10001,2025-09-29,49,Male,Clothing,82.49,2.6,Yes,5,Weekly,Online,Non-Member
+TXN000827,10051,2025-01-17,28,Male,Home & Kitchen,134.89,4.4,No,5,Bi-Weekly,Online,Member
+TXN000828,10173,2025-10-07,62,Female,Clothing,100.33,3.7,No,9,Weekly,Online,Member
+TXN000829,10004,2025-04-08,42,Male,Books,35.02,3.2,Yes,3,Monthly,Online,Non-Member
+TXN000830,10190,2025-08-15,50,Female,Clothing,32.53,3.4,Yes,5,Bi-Weekly,In-Store,Non-Member
+TXN000831,10193,2025-08-31,55,Male,Electronics,186.51,3.5,No,3,Monthly,Online,Member
+TXN000832,10113,2025-07-20,58,Male,Home & Kitchen,139.08,3.0,Yes,5,Quarterly,Online,Member
+TXN000833,10032,2025-06-28,25,Male,Books,30.41,4.0,Yes,4,Bi-Weekly,Online,Non-Member
+TXN000834,10034,2025-09-27,28,Male,Clothing,97.87,5.0,No,3,Weekly,Online,Member
+TXN000835,10092,2025-08-22,39,Female,Clothing,66.19,3.2,Yes,7,Bi-Weekly,In-Store,Member
+TXN000836,10095,2025-04-22,68,Male,Clothing,77.04,5.0,No,5,Weekly,In-Store,Member
+TXN000837,10072,2025-03-07,41,Male,Clothing,73.33,4.1,No,3,Weekly,In-Store,Member
+TXN000838,10039,2025-12-04,58,Female,Clothing,82.13,3.9,Yes,3,Quarterly,In-Store,Member
+TXN000839,10154,2025-12-15,34,Male,Home & Kitchen,121.39,3.8,Yes,6,Bi-Weekly,In-Store,Member
+TXN000840,10162,2025-09-02,29,Female,Clothing,89.37,3.4,No,7,Rarely,Online,Member
+TXN000841,10182,2025-09-02,63,Male,Clothing,58.84,4.2,No,7,Weekly,In-Store,Member
+TXN000842,10118,2025-03-13,49,Male,Sports,309.06,4.4,Yes,4,Quarterly,Online,Non-Member
+TXN000843,10003,2025-12-23,32,Male,Electronics,189.08,2.3,Yes,4,Quarterly,Online,Non-Member
+TXN000844,10123,2025-02-18,33,Female,Electronics,198.59,5.0,No,1,Bi-Weekly,Online,Non-Member
+TXN000845,10050,2025-12-12,39,Male,Electronics,195.79,2.7,Yes,4,Bi-Weekly,In-Store,Non-Member
+TXN000846,10012,2025-07-09,45,Male,Books,60.76,3.6,No,3,Monthly,In-Store,Member
+TXN000847,10193,2025-10-20,37,Male,Clothing,107.79,2.2,Yes,2,Quarterly,Online,Member
+TXN000848,10054,2025-06-26,50,Female,Sports,83.93,3.8,Yes,6,Bi-Weekly,In-Store,Non-Member
+TXN000849,10133,2025-06-10,27,Female,Beauty,47.85,3.7,No,2,Weekly,In-Store,Member
+TXN000850,10057,2025-05-30,57,Male,Clothing,112.95,3.6,Yes,6,Bi-Weekly,Online,Member
+TXN000851,10145,2025-03-11,49,Female,Books,56.03,4.2,Yes,6,Bi-Weekly,Online,Non-Member
+TXN000852,10112,2025-02-02,67,Male,Electronics,194.43,3.8,Yes,6,Rarely,In-Store,Member
+TXN000853,10047,2025-10-11,50,Male,Clothing,122.63,4.4,No,6,Monthly,Online,Member
+TXN000854,10151,2025-12-10,19,Male,Sports,87.19,3.1,No,6,Weekly,In-Store,Non-Member
+TXN000855,10085,2025-09-17,50,Male,Beauty,92.58,4.1,No,5,Bi-Weekly,Online,Non-Member
+TXN000856,10142,2025-11-18,50,Male,Home & Kitchen,168.14,3.6,No,7,Weekly,Online,Member
+TXN000857,10066,2025-03-18,58,Female,Clothing,140.2,3.7,No,7,Quarterly,In-Store,Non-Member
+TXN000858,10075,2025-04-20,30,Female,Home & Kitchen,110.07,4.2,No,9,Rarely,In-Store,Non-Member
+TXN000859,10179,2025-11-01,47,Female,Beauty,76.89,3.6,Yes,5,Weekly,In-Store,Non-Member
+TXN000860,10103,2025-05-19,50,Female,Electronics,210.48,3.9,Yes,4,Monthly,In-Store,Member
+TXN000861,10166,2025-02-04,30,Male,Electronics,212.93,3.2,Yes,7,Rarely,In-Store,Member
+TXN000862,10192,2025-08-23,69,Male,Clothing,80.59,4.8,Yes,5,Weekly,In-Store,Non-Member
+TXN000863,10038,2025-11-26,43,Male,Clothing,93.67,4.5,Yes,5,Bi-Weekly,Online,Non-Member
+TXN000864,10050,2025-07-19,39,Male,Sports,54.72,4.1,Yes,4,Bi-Weekly,Online,Non-Member
+TXN000865,10098,2025-11-21,56,Other,Electronics,219.57,3.8,No,9,Weekly,Online,Member
+TXN000866,10082,2025-05-31,19,Male,Books,26.37,3.9,No,5,Weekly,In-Store,Member
+TXN000867,10030,2025-02-03,55,Male,Electronics,176.33,4.8,Yes,6,Rarely,Online,Non-Member
+TXN000868,10079,2025-05-04,56,Male,Beauty,27.42,4.5,Yes,0,Monthly,Online,Member
+TXN000869,10091,2025-02-01,43,Female,Electronics,189.96,4.8,Yes,6,Bi-Weekly,Online,Member
+TXN000870,10179,2025-09-29,63,Female,Electronics,198.32,3.8,Yes,8,Bi-Weekly,In-Store,Member
+TXN000871,10191,2025-11-20,67,Female,Clothing,85.0,4.3,Yes,4,Quarterly,In-Store,Member
+TXN000872,10052,2025-11-06,32,Male,Electronics,196.53,4.8,No,6,Bi-Weekly,Online,Non-Member
+TXN000873,10166,2025-05-04,51,Male,Home & Kitchen,116.3,3.4,Yes,3,Bi-Weekly,In-Store,Non-Member
+TXN000874,10079,2025-11-12,59,Female,Books,25.44,3.3,Yes,3,Weekly,Online,Member
+TXN000875,10030,2025-03-19,61,Female,Beauty,30.09,4.2,Yes,7,Quarterly,Online,Member
+TXN000876,10106,2025-03-17,66,Male,Clothing,90.39,3.1,No,4,Bi-Weekly,In-Store,Non-Member
+TXN000877,10051,2025-03-01,57,Female,Clothing,91.82,2.7,No,2,Weekly,Online,Member
+TXN000878,10081,2025-03-26,28,Female,Clothing,74.32,4.8,No,1,Monthly,In-Store,Member
+TXN000879,10133,2025-03-21,20,Male,Home & Kitchen,94.92,4.9,No,7,Weekly,Online,Non-Member
+TXN000880,10029,2025-06-21,23,Female,Beauty,74.35,3.2,Yes,2,Rarely,Online,Member
+TXN000881,10132,2025-09-15,26,Female,Books,11.28,3.0,Yes,5,Monthly,In-Store,Non-Member
+TXN000882,10138,2025-10-06,23,Male,Clothing,72.11,3.5,No,6,Weekly,Online,Member
+TXN000883,10184,2025-08-09,26,Male,Home & Kitchen,152.93,4.9,No,7,Bi-Weekly,In-Store,Member
+TXN000884,10145,2025-02-15,56,Male,Home & Kitchen,125.21,3.7,Yes,5,Monthly,In-Store,Member
+TXN000885,10074,2025-03-14,48,Female,Beauty,53.12,4.1,Yes,5,Bi-Weekly,Online,Non-Member
+TXN000886,10017,2025-02-23,49,Female,Home & Kitchen,77.94,4.2,No,8,Quarterly,Online,Member
+TXN000887,10084,2025-11-23,58,Female,Beauty,63.32,4.1,Yes,5,Monthly,Online,Member
+TXN000888,10069,2025-08-09,67,Male,Beauty,70.07,5.0,No,6,Monthly,Online,Non-Member
+TXN000889,10034,2025-12-03,29,Male,Clothing,119.85,3.5,No,3,Rarely,Online,Member
+TXN000890,10006,2025-01-09,25,Female,Sports,63.95,3.9,Yes,9,Monthly,Online,Member
+TXN000891,10053,2025-11-22,25,Male,Clothing,124.58,4.2,No,5,Monthly,Online,Member
+TXN000892,10194,2025-06-21,67,Female,Beauty,78.36,4.0,No,5,Monthly,Online,Non-Member
+TXN000893,10126,2025-03-25,45,Female,Electronics,169.28,3.1,Yes,7,Quarterly,In-Store,Member
+TXN000894,10043,2025-11-26,37,Female,Home & Kitchen,123.73,3.0,Yes,4,Monthly,In-Store,Member
+TXN000895,10115,2025-11-25,64,Female,Sports,81.43,3.0,Yes,6,Monthly,In-Store,Non-Member
+TXN000896,10111,2025-01-12,24,Male,Sports,66.64,4.5,No,4,Bi-Weekly,Online,Member
+TXN000897,10151,2025-02-01,28,Male,Sports,76.22,3.4,No,5,Monthly,In-Store,Non-Member
+TXN000898,10183,2025-12-05,37,Female,Home & Kitchen,108.66,4.3,Yes,6,Bi-Weekly,Online,Non-Member
+TXN000899,10080,2025-10-16,33,Male,Beauty,38.21,4.1,Yes,2,Monthly,In-Store,Non-Member
+TXN000900,10095,2025-11-16,21,Female,Home & Kitchen,120.61,3.3,No,9,Bi-Weekly,In-Store,Non-Member
+TXN000901,10118,2025-10-31,23,Male,Sports,111.49,3.3,No,2,Weekly,Online,Non-Member
+TXN000902,10144,2025-09-29,39,Male,Electronics,176.58,4.1,No,5,Rarely,In-Store,Member
+TXN000903,10008,2025-06-27,43,Female,Books,24.29,4.1,Yes,5,Bi-Weekly,In-Store,Non-Member
+TXN000904,10132,2025-04-24,20,Male,Books,12.18,4.3,Yes,2,Bi-Weekly,In-Store,Member
+TXN000905,10104,2025-01-26,58,Female,Beauty,43.02,3.7,No,5,Bi-Weekly,In-Store,Member
+TXN000906,10132,2025-08-25,59,Female,Electronics,209.61,3.4,No,10,Bi-Weekly,Online,Non-Member
+TXN000907,10184,2025-11-06,31,Female,Clothing,354.3,4.1,No,2,Monthly,Online,Member
+TXN000908,10025,2025-06-21,28,Male,Sports,92.99,5.0,Yes,4,Weekly,Online,Non-Member
+TXN000909,10195,2025-08-21,35,Male,Clothing,77.86,2.7,No,6,Weekly,In-Store,Member
+TXN000910,10096,2025-02-06,29,Female,Sports,75.68,3.4,No,7,Bi-Weekly,Online,Non-Member
+TXN000911,10195,2025-09-22,40,Male,Home & Kitchen,105.42,4.4,No,7,Bi-Weekly,In-Store,Member
+TXN000912,10155,2025-01-13,29,Male,Electronics,139.36,4.2,Yes,3,Weekly,Online,Non-Member
+TXN000913,10093,2025-11-12,30,Male,Sports,70.14,4.4,No,6,Monthly,Online,Non-Member
+TXN000914,10160,2025-04-16,42,Male,Home & Kitchen,95.44,3.7,No,9,Bi-Weekly,Online,Non-Member
+TXN000915,10178,2025-05-06,62,Male,Home & Kitchen,141.9,2.9,No,6,Weekly,In-Store,Member
+TXN000916,10061,2025-12-02,68,Female,Home & Kitchen,154.98,5.0,No,8,Quarterly,Online,Member
+TXN000917,10122,2025-05-10,36,Female,Electronics,258.45,4.8,No,7,Quarterly,Online,Member
+TXN000918,10051,2025-11-12,63,Other,Beauty,71.24,4.0,No,4,Bi-Weekly,Online,Non-Member
+TXN000919,10147,2025-09-13,53,Female,Clothing,61.0,3.4,Yes,3,Weekly,Online,Non-Member
+TXN000920,10021,2025-04-25,62,Other,Books,68.76,3.7,No,10,Monthly,Online,Member
+TXN000921,10005,2025-10-26,25,Male,Sports,79.73,4.2,No,4,Monthly,In-Store,Non-Member
+TXN000922,10092,2025-05-04,46,Female,Electronics,171.0,3.8,Yes,3,Rarely,Online,Non-Member
+TXN000923,10170,2025-09-13,70,Female,Beauty,87.54,4.0,Yes,10,Bi-Weekly,Online,Member
+TXN000924,10061,2025-05-19,49,Female,Home & Kitchen,113.1,5.0,Yes,12,Monthly,In-Store,Non-Member
+TXN000925,10022,2025-07-25,68,Male,Electronics,188.78,4.6,No,2,Quarterly,In-Store,Non-Member
+TXN000926,10149,2025-02-16,61,Female,Books,39.18,3.2,Yes,3,Monthly,Online,Member
+TXN000927,10070,2025-08-05,35,Female,Clothing,341.69,4.1,No,2,Weekly,Online,Member
+TXN000928,10001,2025-11-15,23,Female,Clothing,74.97,3.6,No,8,Bi-Weekly,In-Store,Member
+TXN000929,10133,2025-12-16,35,Female,Home & Kitchen,90.28,4.2,No,3,Weekly,In-Store,Non-Member
+TXN000930,10012,2025-05-03,36,Female,Home & Kitchen,107.05,4.0,Yes,7,Weekly,In-Store,Non-Member
+TXN000931,10090,2025-01-31,39,Female,Home & Kitchen,134.0,5.0,No,5,Quarterly,Online,Non-Member
+TXN000932,10046,2025-02-24,54,Male,Beauty,99.54,4.3,No,6,Bi-Weekly,Online,Member
+TXN000933,10034,2025-06-02,49,Female,Home & Kitchen,97.14,3.9,Yes,2,Weekly,In-Store,Member
+TXN000934,10177,2025-10-13,58,Female,Home & Kitchen,98.88,5.0,No,4,Quarterly,Online,Member
+TXN000935,10078,2025-02-05,20,Female,Clothing,89.83,4.1,No,9,Monthly,Online,Member
+TXN000936,10045,2025-11-02,45,Female,Electronics,185.47,2.9,Yes,7,Bi-Weekly,In-Store,Non-Member
+TXN000937,10155,2025-10-12,27,Other,Clothing,44.44,3.9,No,4,Bi-Weekly,In-Store,Non-Member
+TXN000938,10073,2025-09-13,68,Male,Electronics,183.62,4.4,Yes,3,Bi-Weekly,Online,Non-Member
+TXN000939,10026,2025-06-27,52,Female,Home & Kitchen,126.36,4.3,No,1,Bi-Weekly,In-Store,Non-Member
+TXN000940,10047,2025-02-05,46,Male,Clothing,98.74,4.7,No,5,Quarterly,Online,Member
+TXN000941,10121,2025-09-11,32,Female,Electronics,179.71,4.1,Yes,2,Bi-Weekly,Online,Member
+TXN000942,10056,2025-06-11,50,Female,Clothing,92.73,4.1,No,7,Monthly,In-Store,Member
+TXN000943,10094,2025-01-21,24,Other,Books,41.64,3.0,No,6,Weekly,Online,Non-Member
+TXN000944,10107,2025-10-21,29,Male,Books,29.24,5.0,No,4,Rarely,Online,Non-Member
+TXN000945,10063,2025-03-16,66,Other,Home & Kitchen,131.29,3.8,Yes,6,Monthly,In-Store,Member
+TXN000946,10048,2025-07-26,47,Female,Books,5.0,3.3,Yes,4,Rarely,Online,Member
+TXN000947,10061,2025-06-27,38,Male,Beauty,72.08,5.0,Yes,4,Monthly,Online,Member
+TXN000948,10081,2025-02-06,48,Female,Home & Kitchen,105.39,5.0,No,5,Quarterly,In-Store,Member
+TXN000949,10026,2025-04-30,41,Female,Clothing,97.46,3.7,Yes,4,Quarterly,In-Store,Member
+TXN000950,10036,2025-04-28,37,Male,Beauty,39.01,2.7,No,6,Quarterly,In-Store,Member
+TXN000951,10001,2025-01-01,54,Female,Beauty,97.35,3.5,No,9,Weekly,In-Store,Member
+TXN000952,10008,2025-07-28,21,Male,Home & Kitchen,88.09,5.0,No,4,Weekly,Online,Non-Member
+TXN000953,10113,2025-11-07,45,Male,Beauty,58.73,4.1,No,3,Weekly,In-Store,Non-Member
+TXN000954,10099,2025-07-27,61,Female,Home & Kitchen,120.82,3.1,No,6,Weekly,Online,Member
+TXN000955,10180,2025-06-03,37,Male,Beauty,90.05,4.5,No,5,Quarterly,In-Store,Member
+TXN000956,10047,2025-09-07,41,Male,Books,41.85,3.9,Yes,6,Monthly,Online,Member
+TXN000957,10127,2025-06-20,67,Female,Electronics,176.44,3.5,Yes,2,Monthly,In-Store,Member
+TXN000958,10056,2025-11-11,66,Male,Beauty,97.68,3.6,Yes,3,Bi-Weekly,Online,Member
+TXN000959,10014,2025-11-03,68,Male,Home & Kitchen,117.64,4.9,No,1,Weekly,Online,Member
+TXN000960,10028,2025-04-17,49,Female,Beauty,57.73,4.4,Yes,5,Bi-Weekly,In-Store,Non-Member
+TXN000961,10078,2025-05-23,58,Male,Beauty,82.76,3.0,No,7,Monthly,In-Store,Non-Member
+TXN000962,10130,2025-01-08,53,Other,Clothing,56.3,4.3,Yes,3,Quarterly,In-Store,Member
+TXN000963,10109,2025-04-04,70,Female,Beauty,65.18,4.1,Yes,3,Bi-Weekly,Online,Non-Member
+TXN000964,10154,2025-04-07,51,Male,Clothing,114.41,3.7,No,8,Monthly,Online,Member
+TXN000965,10014,2025-01-07,53,Female,Beauty,21.61,3.7,Yes,3,Monthly,In-Store,Member
+TXN000966,10187,2025-10-01,19,Male,Home & Kitchen,110.66,3.4,No,1,Quarterly,In-Store,Member
+TXN000967,10056,2025-01-12,32,Male,Beauty,44.21,3.5,No,5,Bi-Weekly,In-Store,Non-Member
+TXN000968,10115,2025-01-02,51,Female,Clothing,124.99,4.2,No,12,Monthly,In-Store,Non-Member
+TXN000969,10007,2025-12-15,53,Female,Home & Kitchen,114.5,3.8,Yes,4,Weekly,In-Store,Non-Member
+TXN000970,10003,2025-01-07,23,Male,Electronics,204.21,4.4,No,6,Bi-Weekly,Online,Non-Member
+TXN000971,10111,2025-01-12,56,Female,Sports,34.49,3.5,Yes,3,Monthly,In-Store,Non-Member
+TXN000972,10151,2025-12-06,59,Male,Books,50.34,4.5,No,6,Quarterly,In-Store,Non-Member
+TXN000973,10107,2025-02-26,68,Female,Books,39.66,4.9,Yes,8,Bi-Weekly,Online,Member
+TXN000974,10018,2025-03-19,68,Male,Sports,120.82,4.0,Yes,7,Bi-Weekly,In-Store,Member
+TXN000975,10038,2025-03-15,29,Male,Beauty,47.73,4.4,No,5,Monthly,In-Store,Non-Member
+TXN000976,10115,2025-08-21,20,Male,Clothing,51.98,4.4,Yes,3,Bi-Weekly,Online,Non-Member
+TXN000977,10015,2025-10-06,62,Female,Electronics,204.89,3.6,No,5,Monthly,Online,Member
+TXN000978,10192,2025-01-30,35,Male,Home & Kitchen,103.41,4.4,Yes,11,Quarterly,Online,Non-Member
+TXN000979,10119,2025-11-10,57,Male,Beauty,37.01,2.4,No,3,Monthly,In-Store,Member
+TXN000980,10028,2025-04-05,38,Female,Books,38.55,2.1,No,16,Monthly,In-Store,Member
+TXN000981,10039,2025-11-04,32,Female,Clothing,84.62,3.8,No,5,Monthly,Online,Member
+TXN000982,10185,2025-02-25,50,Female,Books,61.71,4.4,No,0,Quarterly,In-Store,Non-Member
+TXN000983,10017,2025-01-10,52,Male,Beauty,80.72,3.9,No,5,Monthly,Online,Non-Member
+TXN000984,10086,2025-05-27,43,Male,Home & Kitchen,142.44,4.5,No,5,Weekly,Online,Member
+TXN000985,10126,2025-12-30,25,Female,Clothing,94.99,3.2,Yes,3,Bi-Weekly,In-Store,Member
+TXN000986,10044,2025-03-28,53,Male,Clothing,88.23,4.6,No,1,Rarely,In-Store,Member
+TXN000987,10025,2025-09-10,65,Female,Home & Kitchen,96.4,5.0,Yes,4,Bi-Weekly,Online,Non-Member
+TXN000988,10145,2025-07-06,47,Female,Beauty,56.71,3.5,Yes,5,Monthly,Online,Member
+TXN000989,10013,2025-08-21,40,Male,Clothing,60.43,4.5,Yes,2,Quarterly,Online,Member
+TXN000990,10025,2025-09-10,59,Male,Home & Kitchen,144.79,4.0,No,4,Monthly,Online,Member
+TXN000991,10068,2025-08-12,61,Male,Sports,97.25,4.3,No,7,Bi-Weekly,Online,Member
+TXN000992,10138,2025-12-06,31,Female,Sports,140.94,5.0,Yes,4,Weekly,Online,Member
+TXN000993,10067,2025-01-04,31,Male,Books,21.69,4.2,No,6,Bi-Weekly,Online,Non-Member
+TXN000994,10109,2025-12-19,19,Male,Electronics,232.45,4.5,No,6,Bi-Weekly,Online,Member
+TXN000995,10146,2025-04-22,54,Female,Electronics,231.12,3.1,No,7,Rarely,Online,Non-Member
+TXN000996,10111,2025-07-12,22,Male,Beauty,88.64,4.5,No,8,Quarterly,Online,Member
+TXN000997,10111,2025-05-21,55,Male,Electronics,228.6,5.0,Yes,4,Quarterly,In-Store,Member
+TXN000998,10034,2025-11-19,62,Male,Clothing,78.98,3.4,Yes,6,Monthly,In-Store,Member
+TXN000999,10111,2025-05-20,58,Female,Electronics,194.32,3.8,Yes,5,Weekly,Online,Non-Member
+TXN001000,10008,2025-12-15,64,Male,Electronics,209.74,4.5,No,6,Bi-Weekly,Online,Non-Member
+TXN001001,10168,2025-04-05,31,Male,Electronics,205.93,4.3,No,4,Bi-Weekly,Online,Non-Member
+TXN001002,10113,2025-02-10,56,Female,Electronics,145.58,3.0,Yes,2,Monthly,Online,Non-Member
+TXN001003,10083,2025-01-02,42,Male,Electronics,191.76,4.1,Yes,2,Monthly,Online,Member
+TXN001004,10042,2025-10-05,37,Male,Clothing,109.13,3.8,No,10,Monthly,Online,Non-Member
+TXN001005,10169,2025-05-30,19,Female,Home & Kitchen,93.17,3.3,No,2,Monthly,Online,Non-Member
+TXN001006,10101,2025-02-10,56,Female,Home & Kitchen,161.31,4.9,No,4,Rarely,In-Store,Member
+TXN001007,10006,2025-12-17,23,Male,Beauty,65.97,4.0,No,8,Bi-Weekly,Online,Non-Member
+TXN001008,10180,2025-04-26,34,Male,Clothing,100.22,4.7,No,3,Monthly,Online,Member
+TXN001009,10026,2025-04-30,42,Male,Electronics,248.22,3.2,No,12,Bi-Weekly,In-Store,Member
+TXN001010,10064,2025-08-25,45,Female,Home & Kitchen,122.7,4.4,No,2,Monthly,Online,Member
+TXN001011,10187,2025-09-27,19,Other,Home & Kitchen,138.91,4.7,Yes,3,Bi-Weekly,Online,Member
+TXN001012,10184,2025-12-15,52,Female,Home & Kitchen,452.39,3.8,No,7,Monthly,Online,Member
+TXN001013,10059,2025-10-18,54,Female,Electronics,221.77,3.7,No,3,Bi-Weekly,Online,Member
+TXN001014,10109,2025-01-09,22,Male,Books,13.74,3.1,Yes,6,Weekly,In-Store,Member
+TXN001015,10198,2025-08-27,18,Female,Electronics,216.04,3.4,Yes,4,Quarterly,Online,Member
+TXN001016,10121,2025-04-28,57,Female,Electronics,186.11,3.7,No,4,Weekly,Online,Non-Member
+TXN001017,10033,2025-12-18,29,Female,Beauty,46.15,3.3,No,0,Bi-Weekly,Online,Non-Member
+TXN001018,10181,2025-11-11,53,Female,Home & Kitchen,162.15,3.5,No,9,Monthly,Online,Member
+TXN001019,10150,2025-11-08,62,Female,Electronics,188.43,4.1,Yes,5,Monthly,In-Store,Member
+TXN001020,10021,2025-01-10,40,Other,Electronics,201.45,4.2,No,1,Quarterly,In-Store,Member
+TXN001021,10198,2025-01-25,64,Female,Sports,91.81,4.8,Yes,5,Monthly,Online,Non-Member
+TXN001022,10070,2025-06-22,48,Male,Electronics,206.98,3.5,No,3,Bi-Weekly,Online,Member
+TXN001023,10112,2025-08-13,28,Male,Clothing,84.11,4.0,No,3,Weekly,Online,Member
+TXN001024,10004,2025-01-11,27,Male,Electronics,178.55,3.7,No,7,Quarterly,In-Store,Member
+TXN001025,10094,2025-04-11,20,Female,Sports,111.19,3.7,No,9,Bi-Weekly,Online,Non-Member
+TXN001026,10075,2025-09-22,31,Male,Clothing,105.7,3.8,No,5,Quarterly,Online,Member
+TXN001027,10190,2025-11-23,33,Male,Books,39.45,3.9,No,5,Monthly,Online,Member
+TXN001028,10062,2025-03-24,27,Male,Home & Kitchen,109.22,4.2,No,4,Quarterly,Online,Member
+TXN001029,10094,2025-10-03,46,Male,Books,60.19,3.8,Yes,2,Rarely,Online,Member
+TXN001030,10095,2025-12-11,27,Male,Books,34.75,4.9,No,6,Monthly,Online,Non-Member
+TXN001031,10152,2025-09-18,29,Female,Electronics,201.69,2.8,No,8,Monthly,Online,Non-Member
+TXN001032,10055,2025-08-09,47,Male,Clothing,66.15,4.7,No,6,Monthly,Online,Non-Member
+TXN001033,10137,2025-11-07,58,Male,Clothing,73.3,3.7,Yes,4,Monthly,Online,Non-Member
+TXN001034,10131,2025-08-07,18,Male,Clothing,64.82,3.9,No,7,Monthly,In-Store,Member
+TXN001035,10031,2025-03-30,22,Other,Beauty,37.79,4.0,Yes,7,Weekly,Online,Non-Member
+TXN001036,10040,2025-01-15,37,Female,Electronics,169.44,4.5,Yes,5,Monthly,Online,Non-Member
+TXN001037,10036,2025-09-03,25,Other,Electronics,218.04,3.4,No,6,Weekly,In-Store,Member
+TXN001038,10152,2025-06-25,60,Female,Electronics,172.75,3.5,No,5,Weekly,Online,Non-Member
+TXN001039,10006,2025-01-04,29,Female,Books,39.12,4.4,Yes,5,Monthly,In-Store,Member
+TXN001040,10066,2025-11-30,18,Female,Clothing,80.99,2.8,No,8,Weekly,In-Store,Member
+TXN001041,10075,2025-01-21,37,Female,Clothing,105.57,4.0,Yes,7,Quarterly,Online,Non-Member
+TXN001042,10004,2025-07-27,45,Male,Clothing,90.6,3.4,No,4,Quarterly,In-Store,Non-Member
+TXN001043,10079,2025-05-17,60,Female,Sports,71.12,3.3,No,3,Rarely,Online,Non-Member
+TXN001044,10134,2025-11-18,54,Female,Beauty,66.97,2.9,No,6,Monthly,Online,Member
+TXN001045,10118,2025-12-29,64,Male,Electronics,200.89,4.5,No,4,Monthly,Online,Non-Member
+TXN001046,10113,2025-08-04,54,Male,Clothing,80.56,4.1,Yes,8,Bi-Weekly,Online,Member
+TXN001047,10094,2025-04-27,29,Male,Electronics,206.43,3.5,Yes,4,Monthly,In-Store,Member
+TXN001048,10179,2025-06-28,54,Male,Clothing,79.44,3.9,No,4,Bi-Weekly,In-Store,Non-Member
+TXN001049,10062,2025-09-03,66,Male,Books,38.85,3.2,Yes,12,Bi-Weekly,In-Store,Non-Member
+TXN001050,10185,2025-05-08,66,Female,Beauty,90.48,3.6,No,3,Quarterly,In-Store,Member
+TXN001051,10194,2025-12-24,61,Female,Home & Kitchen,81.55,3.9,No,4,Bi-Weekly,In-Store,Non-Member
+TXN001052,10079,2025-03-19,45,Male,Sports,92.61,4.0,Yes,4,Bi-Weekly,Online,Member
+TXN001053,10136,2025-08-17,64,Female,Clothing,103.66,4.3,No,4,Quarterly,Online,Member
+TXN001054,10026,2025-10-20,32,Male,Beauty,55.29,2.7,Yes,3,Bi-Weekly,Online,Member
+TXN001055,10179,2025-09-19,23,Female,Sports,10.85,4.3,Yes,3,Bi-Weekly,Online,Non-Member
+TXN001056,10173,2025-03-23,61,Female,Electronics,215.51,2.8,No,6,Weekly,In-Store,Member
+TXN001057,10044,2025-12-08,37,Male,Beauty,74.11,4.3,No,6,Quarterly,Online,Non-Member
+TXN001058,10133,2025-12-04,67,Male,Electronics,193.47,3.9,No,5,Monthly,Online,Member
+TXN001059,10070,2025-11-03,31,Male,Electronics,138.52,4.8,Yes,6,Monthly,Online,Non-Member
+TXN001060,10154,2025-03-07,19,Male,Clothing,72.04,3.5,No,4,Bi-Weekly,Online,Member
+TXN001061,10118,2025-04-06,26,Female,Electronics,180.82,4.5,Yes,6,Monthly,Online,Non-Member
+TXN001062,10068,2025-05-25,54,Female,Beauty,65.07,3.2,Yes,5,Monthly,Online,Member
+TXN001063,10019,2025-03-06,37,Male,Books,5.0,4.1,No,4,Bi-Weekly,Online,Non-Member
+TXN001064,10020,2025-01-09,43,Male,Home & Kitchen,113.62,2.6,No,3,Monthly,Online,Non-Member
+TXN001065,10113,2025-12-23,46,Female,Sports,99.54,4.6,Yes,3,Monthly,In-Store,Non-Member
+TXN001066,10140,2025-07-05,18,Male,Sports,124.55,5.0,No,5,Monthly,Online,Member
+TXN001067,10047,2025-06-07,52,Female,Clothing,106.48,3.5,No,2,Monthly,Online,Non-Member
+TXN001068,10001,2025-01-31,23,Female,Home & Kitchen,79.46,4.1,Yes,3,Bi-Weekly,Online,Member
+TXN001069,10090,2025-05-31,54,Female,Clothing,91.24,4.3,Yes,3,Monthly,Online,Non-Member
+TXN001070,10142,2025-11-15,70,Male,Beauty,45.36,2.9,No,3,Monthly,Online,Non-Member
+TXN001071,10064,2025-08-30,22,Male,Books,72.26,3.5,No,8,Monthly,Online,Member
+TXN001072,10038,2025-06-05,50,Female,Clothing,66.68,3.4,Yes,3,Monthly,Online,Member
+TXN001073,10037,2025-02-28,66,Male,Beauty,86.44,5.0,No,4,Quarterly,Online,Member
+TXN001074,10126,2025-01-10,68,Female,Home & Kitchen,161.97,4.7,Yes,9,Quarterly,Online,Member
+TXN001075,10139,2025-12-11,31,Female,Home & Kitchen,130.27,3.8,No,5,Monthly,Online,Non-Member
+TXN001076,10100,2025-05-04,29,Female,Electronics,177.96,4.5,No,5,Quarterly,In-Store,Member
+TXN001077,10077,2025-12-22,59,Female,Electronics,186.89,4.1,No,4,Weekly,Online,Member
+TXN001078,10003,2025-12-12,37,Female,Clothing,100.53,4.4,No,4,Quarterly,In-Store,Member
+TXN001079,10161,2025-10-09,70,Male,Clothing,113.33,3.3,Yes,1,Monthly,Online,Member
+TXN001080,10134,2025-08-25,67,Male,Clothing,94.81,5.0,Yes,2,Bi-Weekly,Online,Member
+TXN001081,10178,2025-11-29,41,Male,Home & Kitchen,86.6,3.5,Yes,7,Weekly,In-Store,Non-Member
+TXN001082,10010,2025-01-17,60,Female,Clothing,90.12,3.5,No,4,Weekly,In-Store,Member
+TXN001083,10005,2025-11-20,51,Female,Sports,109.26,4.4,No,5,Weekly,Online,Non-Member
+TXN001084,10151,2025-01-23,42,Female,Home & Kitchen,114.33,4.2,Yes,6,Weekly,Online,Member
+TXN001085,10138,2025-01-09,67,Female,Beauty,62.28,4.0,No,6,Weekly,Online,Member
+TXN001086,10172,2025-07-26,46,Male,Electronics,223.7,4.6,No,6,Quarterly,Online,Non-Member
+TXN001087,10130,2025-02-14,56,Female,Home & Kitchen,169.32,3.2,No,5,Bi-Weekly,Online,Member
+TXN001088,10013,2025-11-27,48,Male,Books,80.98,5.0,Yes,7,Bi-Weekly,Online,Member
+TXN001089,10168,2025-01-27,64,Male,Clothing,45.83,3.6,Yes,7,Quarterly,Online,Member
+TXN001090,10130,2025-07-07,60,Female,Clothing,114.43,3.9,Yes,5,Weekly,Online,Member
+TXN001091,10084,2025-05-20,67,Male,Beauty,81.87,5.0,No,3,Quarterly,In-Store,Member
+TXN001092,10065,2025-01-09,40,Male,Clothing,80.54,3.5,No,10,Monthly,In-Store,Member
+TXN001093,10063,2025-08-22,61,Male,Clothing,44.48,4.7,No,3,Bi-Weekly,In-Store,Member
+TXN001094,10101,2025-04-02,55,Male,Electronics,215.65,3.8,No,8,Weekly,Online,Member
+TXN001095,10073,2025-03-18,37,Female,Clothing,91.45,3.4,No,4,Weekly,In-Store,Member
+TXN001096,10017,2025-12-06,40,Female,Home & Kitchen,78.05,3.7,Yes,3,Bi-Weekly,In-Store,Member
+TXN001097,10009,2025-09-01,62,Female,Clothing,120.21,4.4,Yes,7,Weekly,Online,Member
+TXN001098,10143,2025-11-29,69,Female,Sports,142.83,4.7,No,5,Bi-Weekly,Online,Member
+TXN001099,10152,2025-06-04,33,Male,Beauty,56.14,4.2,Yes,7,Weekly,In-Store,Non-Member
+TXN001100,10038,2025-08-06,67,Female,Beauty,59.55,2.9,No,10,Monthly,Online,Member
+TXN001101,10163,2025-10-12,59,Male,Home & Kitchen,105.58,4.4,No,2,Weekly,Online,Non-Member
+TXN001102,10094,2025-05-30,25,Male,Sports,122.97,3.9,No,6,Quarterly,Online,Member
+TXN001103,10095,2025-11-25,67,Female,Clothing,89.62,3.2,Yes,3,Bi-Weekly,Online,Non-Member
+TXN001104,10049,2025-03-29,38,Female,Sports,76.92,4.2,Yes,6,Quarterly,In-Store,Member
+TXN001105,10069,2025-04-16,18,Male,Beauty,44.35,4.8,No,5,Bi-Weekly,Online,Non-Member
+TXN001106,10062,2025-10-21,25,Male,Beauty,38.7,4.0,No,3,Quarterly,Online,Non-Member
+TXN001107,10188,2025-04-05,46,Male,Home & Kitchen,111.08,4.6,Yes,6,Bi-Weekly,Online,Member
+TXN001108,10178,2025-09-10,49,Female,Clothing,61.74,4.3,Yes,4,Monthly,Online,Non-Member
+TXN001109,10078,2025-02-08,55,Female,Electronics,189.83,4.3,Yes,6,Weekly,Online,Member
+TXN001110,10117,2025-09-12,22,Female,Sports,97.87,3.8,No,3,Monthly,Online,Member
+TXN001111,10120,2025-02-23,64,Female,Clothing,77.28,4.6,No,3,Weekly,In-Store,Non-Member
+TXN001112,10137,2025-08-31,39,Male,Beauty,85.67,4.6,No,5,Monthly,Online,Non-Member
+TXN001113,10162,2025-04-20,64,Male,Clothing,64.41,4.6,No,7,Weekly,Online,Member
+TXN001114,10076,2025-09-11,51,Male,Clothing,113.77,3.8,No,4,Monthly,In-Store,Member
+TXN001115,10035,2025-04-22,18,Male,Clothing,57.26,4.7,Yes,9,Weekly,Online,Non-Member
+TXN001116,10001,2025-06-23,43,Male,Clothing,102.08,4.3,Yes,3,Bi-Weekly,In-Store,Non-Member
+TXN001117,10040,2025-07-08,60,Female,Home & Kitchen,129.21,3.3,No,8,Monthly,In-Store,Non-Member
+TXN001118,10064,2025-08-09,27,Female,Clothing,80.99,3.7,No,4,Rarely,In-Store,Non-Member
+TXN001119,10150,2025-09-06,47,Male,Books,43.46,3.6,Yes,5,Monthly,Online,Member
+TXN001120,10060,2025-02-21,67,Female,Home & Kitchen,159.54,2.6,Yes,8,Monthly,Online,Non-Member
+TXN001121,10064,2025-06-11,35,Male,Clothing,92.08,4.7,No,5,Monthly,Online,Member
+TXN001122,10093,2025-02-04,34,Male,Beauty,95.76,5.0,Yes,5,Monthly,Online,Member
+TXN001123,10072,2025-02-06,43,Female,Sports,87.31,4.8,No,4,Weekly,In-Store,Member
+TXN001124,10011,2025-11-30,25,Male,Beauty,68.02,4.1,Yes,5,Weekly,In-Store,Member
+TXN001125,10105,2025-11-13,64,Male,Clothing,125.56,3.6,Yes,6,Quarterly,In-Store,Member
+TXN001126,10014,2025-04-21,57,Male,Sports,74.59,3.4,No,5,Monthly,In-Store,Non-Member
+TXN001127,10060,2025-06-26,66,Male,Sports,120.11,4.1,No,6,Monthly,In-Store,Member
+TXN001128,10030,2025-01-09,29,Male,Clothing,79.31,4.7,No,7,Monthly,Online,Member
+TXN001129,10035,2025-10-02,44,Female,Clothing,80.65,3.5,Yes,4,Bi-Weekly,Online,Non-Member
+TXN001130,10165,2025-05-01,25,Female,Home & Kitchen,155.72,5.0,No,6,Bi-Weekly,In-Store,Member
+TXN001131,10005,2025-04-15,42,Male,Clothing,60.36,3.0,Yes,3,Monthly,Online,Member
+TXN001132,10083,2025-06-05,63,Male,Sports,106.38,4.2,Yes,4,Weekly,Online,Member
+TXN001133,10123,2025-12-02,21,Female,Electronics,177.49,4.0,No,7,Bi-Weekly,Online,Non-Member
+TXN001134,10078,2025-01-26,50,Female,Books,37.46,4.0,Yes,6,Monthly,In-Store,Member
+TXN001135,10154,2025-10-23,18,Male,Home & Kitchen,126.77,3.6,No,2,Rarely,Online,Member
+TXN001136,10062,2025-01-25,36,Male,Clothing,82.04,4.1,No,7,Bi-Weekly,In-Store,Member
+TXN001137,10132,2025-12-21,48,Male,Clothing,128.03,3.7,No,8,Monthly,In-Store,Member
+TXN001138,10089,2025-03-10,33,Male,Home & Kitchen,129.28,4.9,No,3,Weekly,Online,Member
+TXN001139,10042,2025-11-23,31,Female,Beauty,46.23,5.0,No,7,Weekly,Online,Member
+TXN001140,10089,2025-05-31,70,Female,Beauty,80.34,3.7,Yes,6,Quarterly,Online,Member
+TXN001141,10146,2025-12-11,65,Male,Electronics,234.59,2.8,No,9,Quarterly,In-Store,Non-Member
+TXN001142,10040,2025-03-06,22,Female,Clothing,83.43,4.2,Yes,5,Bi-Weekly,In-Store,Member
+TXN001143,10072,2025-05-30,58,Female,Clothing,98.04,4.2,No,6,Monthly,In-Store,Member
+TXN001144,10039,2025-11-16,43,Female,Beauty,56.4,4.1,Yes,4,Weekly,Online,Member
+TXN001145,10104,2025-09-02,45,Male,Clothing,91.32,4.4,No,4,Quarterly,Online,Member
+TXN001146,10014,2025-02-27,19,Male,Electronics,193.79,5.0,No,6,Weekly,Online,Non-Member
+TXN001147,10032,2025-06-05,67,Female,Home & Kitchen,67.14,4.6,No,4,Quarterly,In-Store,Member
+TXN001148,10179,2025-04-22,23,Female,Books,59.95,4.4,No,5,Monthly,Online,Member
+TXN001149,10125,2025-05-03,26,Male,Electronics,210.03,4.5,No,2,Bi-Weekly,Online,Non-Member
+TXN001150,10166,2025-12-19,50,Other,Clothing,68.25,4.2,Yes,4,Quarterly,Online,Member
+TXN001151,10097,2025-12-28,58,Female,Beauty,83.61,3.3,No,5,Rarely,Online,Member
+TXN001152,10023,2025-07-22,42,Male,Home & Kitchen,124.08,5.0,Yes,6,Bi-Weekly,Online,Member
+TXN001153,10063,2025-01-04,65,Female,Electronics,633.09,4.1,Yes,5,Quarterly,Online,Member
+TXN001154,10143,2025-05-09,30,Male,Books,57.17,3.3,No,8,Quarterly,Online,Member
+TXN001155,10153,2025-01-26,26,Female,Sports,111.97,3.2,No,2,Quarterly,Online,Member
+TXN001156,10145,2025-10-16,70,Female,Clothing,64.34,3.4,No,3,Rarely,In-Store,Member
+TXN001157,10194,2025-01-27,30,Male,Clothing,50.99,3.1,No,6,Monthly,In-Store,Non-Member
+TXN001158,10053,2025-02-11,48,Male,Home & Kitchen,137.29,4.5,No,6,Monthly,Online,Member
+TXN001159,10104,2025-03-12,58,Female,Beauty,57.25,3.9,Yes,6,Quarterly,In-Store,Member
+TXN001160,10104,2025-03-05,28,Male,Clothing,52.62,4.5,No,3,Monthly,Online,Member
+TXN001161,10179,2025-01-25,21,Female,Beauty,80.49,4.8,No,7,Monthly,Online,Member
+TXN001162,10039,2025-03-13,51,Male,Beauty,44.31,4.6,No,7,Bi-Weekly,In-Store,Member
+TXN001163,10179,2025-12-27,55,Female,Clothing,123.61,4.4,Yes,3,Quarterly,In-Store,Non-Member
+TXN001164,10198,2025-09-25,63,Male,Beauty,5.0,4.2,Yes,4,Monthly,In-Store,Non-Member
+TXN001165,10134,2025-11-10,21,Female,Books,33.01,3.9,No,2,Monthly,Online,Non-Member
+TXN001166,10067,2025-04-05,55,Male,Clothing,54.79,3.9,Yes,7,Monthly,Online,Non-Member
+TXN001167,10135,2025-12-23,36,Male,Electronics,223.75,4.4,No,7,Weekly,In-Store,Member
+TXN001168,10179,2025-12-30,23,Male,Electronics,199.49,3.3,No,7,Weekly,Online,Member
+TXN001169,10200,2025-11-11,51,Male,Sports,134.03,4.0,No,5,Monthly,Online,Member
+TXN001170,10042,2025-04-27,35,Male,Books,63.43,3.5,No,6,Monthly,In-Store,Member
+TXN001171,10192,2025-06-13,30,Female,Electronics,153.01,4.8,Yes,5,Quarterly,In-Store,Non-Member
+TXN001172,10015,2025-12-31,58,Female,Beauty,50.9,4.5,No,3,Monthly,In-Store,Member
+TXN001173,10111,2025-10-05,40,Male,Home & Kitchen,90.82,5.0,Yes,3,Rarely,Online,Non-Member
+TXN001174,10157,2025-03-06,36,Female,Home & Kitchen,108.91,3.5,Yes,8,Bi-Weekly,In-Store,Member
+TXN001175,10033,2025-11-02,62,Male,Electronics,189.98,3.5,Yes,6,Rarely,Online,Non-Member
+TXN001176,10155,2025-09-17,28,Other,Clothing,104.02,4.0,No,10,Bi-Weekly,Online,Non-Member
+TXN001177,10164,2025-08-16,18,Female,Electronics,182.25,3.5,Yes,7,Monthly,In-Store,Non-Member
+TXN001178,10157,2025-07-19,41,Male,Home & Kitchen,107.77,4.4,No,10,Monthly,Online,Non-Member
+TXN001179,10038,2025-08-08,24,Female,Clothing,69.93,4.0,No,5,Bi-Weekly,Online,Member
+TXN001180,10185,2025-06-29,42,Male,Sports,73.35,3.7,No,6,Weekly,In-Store,Non-Member
+TXN001181,10097,2025-12-24,38,Female,Clothing,88.76,4.8,No,5,Weekly,Online,Non-Member
+TXN001182,10155,2025-08-16,32,Female,Clothing,73.95,2.7,No,4,Quarterly,Online,Non-Member
+TXN001183,10183,2025-09-09,18,Male,Home & Kitchen,142.27,4.4,Yes,5,Bi-Weekly,Online,Non-Member
+TXN001184,10033,2025-10-26,29,Male,Beauty,61.04,3.6,No,6,Rarely,Online,Non-Member
+TXN001185,10196,2025-12-27,24,Male,Clothing,68.55,4.6,Yes,3,Bi-Weekly,Online,Non-Member
+TXN001186,10086,2025-01-04,32,Male,Electronics,159.38,4.7,No,5,Rarely,In-Store,Member
+TXN001187,10066,2025-05-21,38,Female,Books,5.0,2.4,No,3,Bi-Weekly,In-Store,Non-Member
+TXN001188,10010,2025-06-15,36,Male,Electronics,167.93,3.9,Yes,2,Weekly,Online,Member
+TXN001189,10005,2025-09-11,46,Female,Electronics,192.57,4.0,No,6,Bi-Weekly,In-Store,Member
+TXN001190,10123,2025-06-02,42,Male,Sports,76.89,2.3,No,5,Quarterly,Online,Member
+TXN001191,10074,2025-03-08,50,Male,Clothing,61.09,4.2,Yes,5,Monthly,Online,Member
+TXN001192,10097,2025-02-24,66,Male,Home & Kitchen,140.73,3.6,No,7,Weekly,In-Store,Member
+TXN001193,10118,2025-04-06,49,Male,Electronics,185.93,3.2,Yes,7,Bi-Weekly,Online,Member
+TXN001194,10038,2025-06-16,66,Female,Electronics,212.0,3.5,No,8,Bi-Weekly,In-Store,Member
+TXN001195,10141,2025-11-17,52,Male,Electronics,221.43,3.4,No,3,Monthly,Online,Member
+TXN001196,10159,2025-11-27,61,Female,Clothing,119.28,3.6,No,9,Bi-Weekly,In-Store,Member
+TXN001197,10047,2025-12-08,55,Male,Electronics,207.19,4.1,No,5,Quarterly,Online,Non-Member
+TXN001198,10109,2025-03-03,43,Female,Clothing,92.31,4.7,No,6,Monthly,Online,Non-Member
+TXN001199,10180,2025-06-23,28,Male,Beauty,75.1,3.9,No,2,Quarterly,Online,Non-Member
+TXN001200,10184,2025-09-10,52,Male,Electronics,206.51,4.8,No,8,Monthly,In-Store,Non-Member
